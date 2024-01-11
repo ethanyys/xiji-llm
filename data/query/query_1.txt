@@ -1,2198 +1,1201 @@
-1	fuhaiming	我想要一张打印出来的去年全年[购物单/产品]纸.直观方便.行么?
-2	fuhaiming	[50000/规格][充电宝/产品]
-4	fuhaiming	我要买收腰[长袖衫/产品]学生女
-5	fuhaiming	你推荐的不是我需要的
-9	fuhaiming	一周岁女宝
-10	fuhaiming	化妆[拉杆箱/产品]
-7	fuhaiming	有没有儿童双人[手推车/产品]
-6	fuhaiming	我要买一台[游戏本/产品]
-8	fuhaiming	不是就是干性有些鱼尾纹
-14	fuhaiming	长袖加绒
-12	fuhaiming	什么[咖啡豆/产品]好
-16	fuhaiming	我不要看什么宝宝的[书/产品]还没结婚呢
-13	fuhaiming	高中生女
-18	fuhaiming	淡粉色[鞋子/产品]
-19	fuhaiming	碳烤
-3	fuhaiming	我刚刚收藏在购物车里的东西呢？
-11	fuhaiming	我要买[咬咬乐/产品]
-20	fuhaiming	我要买[拉拉裤/产品]
-22	fuhaiming	送什么
-15	fuhaiming	适合40岁以下的人穿的[风衣/产品]
-23	fuhaiming	夏季[鞋子/产品]
-24	fuhaiming	[宝格丽/品牌]
-26	fuhaiming	[眼线膏/产品]
-25	fuhaiming	139还一个[裙子/产品]，你有没搞错，那么贵
-21	fuhaiming	我想下载大码美[衣/产品]
-28	fuhaiming	我想找二手[苹果/品牌][6sp/型号][手机/产品]
-30	fuhaiming	想买汽车[座套/产品]
-32	fuhaiming	10元的[表链/产品]([16mm/规格])[铁链/产品]
-31	fuhaiming	您好，我拍错了，想要[菲克斯曼/品牌]家用[工具箱/产品][17寸/规格][z0103/型号]
-33	fuhaiming	我要吃辣的
-35	fuhaiming	辣鸡辣鸡
-29	fuhaiming	我有[一套/规格][衣服/产品]不知搭什么[外套/产品]
-36	fuhaiming	我想买东西可是淘宝地址填不到这里啊
-37	fuhaiming	东西太贵了
-27	fuhaiming	你们这个有人工服务，没有
-40	fuhaiming	[u盘/产品]
-41	fuhaiming	想买[睡衣/产品]，但是又怕短了
-38	fuhaiming	夏季的半袖之类的
-39	fuhaiming	我想买辆[自行车/产品]
-42	fuhaiming	电动新传[灯笼/产品]
-34	fuhaiming	想买只保温壸[盖子/产品]
-17	fuhaiming	[樊文花/品牌][面膜/产品]
-47	fuhaiming	买[手机膜/产品]的
-48	fuhaiming	女童套装[裙/产品]
-45	fuhaiming	要这款
-44	fuhaiming	[8G/规格][内存条/产品]
-46	fuhaiming	推荐一款淡淡的香味的[香水/产品]
-49	fuhaiming	有没有优惠的[运动鞋/产品]啊
-51	fuhaiming	脱水[洗衣机/产品]
-52	fuhaiming	[宝宝鞋/产品]1-3岁春秋
-54	fuhaiming	我要找[收纳袋/产品]
-55	fuhaiming	我想看看我的评价是什么，还有[接头/产品]吗，还有那个图吗？
-53	fuhaiming	有没有卖[千里追风油/产品]的
-43	fuhaiming	莪自己的[皮衣/产品]要拍賣出去
-59	fuhaiming	[崖柏/产品]
-58	fuhaiming	需要买什么来换呢
-56	fuhaiming	[小安素/型号][奶粉/产品]
-61	fuhaiming	床上四件套有没有[被芯/产品]
-57	fuhaiming	我想买把[打鸟枪/产品]
-64	fuhaiming	想买中老年男春秋薄款实[棉/材料][睡衣/产品][裤子/产品]一百四十斤左右
-60	fuhaiming	婴儿[吸管杯/产品]
-62	fuhaiming	像丸子会飞的[汽车/产品]
-67	fuhaiming	[儿童帐篷/产品]
-68	fuhaiming	[笔记本/产品][4G/规格]内存
-66	fuhaiming	我今天在淘宝里想买一件[内衣/产品]，还没有下单前咨询了那家店的客服，她说我差评太多，不卖给我，还出口伤人的骂我，我想投诉她态度恶劣
-65	fuhaiming	我要买好一点的[被子/产品]
-69	fuhaiming	想买套[护肤品/产品]
-72	fuhaiming	[九鱼图/产品]
-63	fuhaiming	[胖mm/品牌]喇叭[牛仔裤/产品]卖一送一
-71	fuhaiming	当我白问
-73	fuhaiming	我想要买毛绒[玩具/产品]
-70	fuhaiming	想买件短[外套/产品]，女
-76	fuhaiming	有没有便宜的[手机/产品]？
-77	fuhaiming	[纹身膏/产品]
-74	fuhaiming	[魔方/产品]三级
-79	fuhaiming	有没有价格400元以下[充气娃娃/产品]
-81	fuhaiming	蓝色竖条纹的
-80	fuhaiming	[鲁花/品牌][菜籽油/产品]
-83	fuhaiming	我脚又胖又大穿什么好看呢
-75	fuhaiming	中袖宽松[t恤/产品]
-84	fuhaiming	那你觉得什么[面膜/产品]好
-85	fuhaiming	[待产包/产品]什么牌子的好
-82	fuhaiming	爆笑[漫画/产品]
-86	fuhaiming	软[皮/材料][包包/产品]
-89	fuhaiming	男士[香体/产品]
-78	fuhaiming	及膝[古装/产品]
-87	fuhaiming	我要买[普洱生茶/产品]
-92	fuhaiming	推荐几款葫芦[粉扑/产品]
-93	fuhaiming	圆头浅口[平底鞋/产品]
-94	fuhaiming	有没有便宜的[工作服/产品]
-88	fuhaiming	车床[尾座/产品]
-91	fuhaiming	想问一下，十岁孩子掉牙半年没长新牙，买什么给他吃好。
-90	fuhaiming	三四个月女宝春秋[装/产品]
-95	fuhaiming	我要买多浆[植物/产品]
-97	fuhaiming	老人用[智能机/产品]
-99	fuhaiming	人工服务啊
-101	fuhaiming	[华为/品牌][手机/产品][充电头/产品]
-98	fuhaiming	大功率
-102	fuhaiming	[碎花裙/产品]配什么[鞋子/产品]好看？
-100	fuhaiming	小猪配的是
-96	fuhaiming	[踩脚袜/产品]薄绒
-103	fuhaiming	[短裤/产品]男
-106	fuhaiming	买[杯子/产品]
-108	fuhaiming	我要买[眉笔/产品]
-107	fuhaiming	女式[情趣用品/产品]
-110	fuhaiming	我要买东西 不知道买什么
-50	fuhaiming	[苹果/品牌][手机/产品][卡槽/产品]
-111	fuhaiming	不是大妈
-109	fuhaiming	3000元左右的
-112	fuhaiming	要刻字[理发器/产品]
-114	fuhaiming	车载[自吸泵/产品]
-104	fuhaiming	男士夏季[上衣/产品]
-115	fuhaiming	[60厘米/规格]的[真皮/材料]女士[手套/产品]
-113	fuhaiming	查看物流
-119	fuhaiming	哺乳[外出衣/产品]
-117	fuhaiming	我想买短的[牛仔裤/产品]
-116	fuhaiming	有女票吗
-105	fuhaiming	毛质好一些的[化妆刷/产品]专业化妆师用
-121	fuhaiming	买东西商家让我推荐，有证据，如何投诉
-120	fuhaiming	买[Q币/产品]为什么不加购物总额？
-123	fuhaiming	几百元的[4G/规格][联通/品牌][手机/产品]
-118	fuhaiming	小学生[内衣/产品]
-124	fuhaiming	[2万毫安/规格]移动[电源/产品]
-128	fuhaiming	没钱币十
-127	fuhaiming	休闲[运动鞋/产品]百搭的
-125	fuhaiming	[气垫/产品]轻透价格中等
-126	fuhaiming	摩托车电瓶[充电器/产品]
-122	fuhaiming	我想找[洋葱圈/产品]
-133	fuhaiming	什么[机械键盘/产品]比较好
-132	fuhaiming	桃红
-135	fuhaiming	我想买一个能分期的界面，归你能给我推荐一下吗？
-136	fuhaiming	[高泡粉/产品]
-130	fuhaiming	喝[奶/产品][奶/产品]
-134	fuhaiming	我要秋天的
-137	fuhaiming	2017新款[打底衫/产品]可外穿
-139	fuhaiming	手动[假阳具/产品]
-131	fuhaiming	你有点6啊
-140	fuhaiming	我要买性能高的[游戏本/产品]
-142	fuhaiming	要淘宝[点卡/产品][天宏一卡通/品牌] [易宝/品牌]接口
-143	fuhaiming	电脑[风扇/产品]
-141	fuhaiming	要买粗一点的[轮胎线/产品]
-144	fuhaiming	l我要买[花盆/产品]
-145	fuhaiming	春[装/产品]外
-129	fuhaiming	我要买[硬盘/产品]
-138	fuhaiming	[兰瑟/品牌][BB霜/产品]
-150	fuhaiming	男运动[风衣/产品]
-148	fuhaiming	[哈喽/品牌][运动裤/产品]
-151	fuhaiming	[购物卷/产品]无法使用
-153	fuhaiming	我想买个大码[衣服/产品]
-146	fuhaiming	[Zppo/品牌] [火机/产品]
-149	fuhaiming	。长款[毛衣/产品][外套/产品]
-152	fuhaiming	保温[奶瓶/产品]两用
-156	fuhaiming	[面膜/产品]是睡眠[面膜/产品]
-155	fuhaiming	要[滕席/产品]三人坐位，二人坐位，一人坐位。
-159	fuhaiming	变色[口红/产品]
-157	fuhaiming	我要找闲鱼网
-160	fuhaiming	想要一个能装鞋的[旅行包/产品]
-147	fuhaiming	[可儿/品牌]改装[娃娃/产品]
-163	fuhaiming	修身[马甲/产品]
-164	fuhaiming	五香红烧[牛肉/产品]
-161	fuhaiming	买[丽格海棠/产品]
-162	fuhaiming	[收腰裤/产品]
-154	fuhaiming	拼色[襯衫/产品]
-168	fuhaiming	成语[故事书/产品]
-169	fuhaiming	[黄金/材料][吊坠/产品]
-165	fuhaiming	莪想要把一件[皮衣/产品]拍賣出去
-171	fuhaiming	要最新款
-166	fuhaiming	[剪眉刀/产品]
-158	fuhaiming	给我推荐一个[小米/品牌][4C/型号]的[钢化膜/产品]
-172	fuhaiming	[宝宝衣服/产品]套装6个月
-167	fuhaiming	女[运动服/产品]大码
-173	fuhaiming	指甲
-175	fuhaiming	我想找那种防止微信的[太阳帽/产品]
-178	fuhaiming	韩式的
-177	fuhaiming	有没有女吃的[伟哥/产品]
-170	fuhaiming	女生单肩[包包/产品]
-176	fuhaiming	哺乳期吃的[零食/产品]
-179	fuhaiming	[中老年奶粉/产品]
-174	fuhaiming	我要[oppo/品牌][a59s/型号]
-183	fuhaiming	我想买个19.9包邮的男生[外套/产品]
-180	fuhaiming	好奇
-186	fuhaiming	江苏无锡的装修
-184	fuhaiming	女款[表/产品]
-187	fuhaiming	购物卷可不可以叠加使用
-188	fuhaiming	青少年
-182	fuhaiming	我要买内蒙古生产的[神奇牌/品牌][小活络丸/产品]
-181	fuhaiming	吴亦凡[明信片/产品]
-189	fuhaiming	汽车[发动机/产品]
-185	fuhaiming	我要买[唇液/产品]
-193	fuhaiming	[水壶/产品]3，4块钱的
-191	fuhaiming	二年级买什么故事比较好
-196	fuhaiming	[好奇/品牌][铂金装/型号][纸尿裤/产品][M/规格]码
-190	fuhaiming	高压[气枪/产品]
-197	fuhaiming	骨架大
-194	fuhaiming	算了，辛苦小蜜了
-199	fuhaiming	男士[墨镜/产品]黑色
-200	fuhaiming	[帮宝适/品牌]
-201	fuhaiming	壮阳的
-202	fuhaiming	我要买男幼婴薄[外套/产品]
-195	fuhaiming	便宜的[乳液/产品]
-204	fuhaiming	香辣[金针菇/产品]
-206	fuhaiming	增粗增长
-203	fuhaiming	买[CPU/产品]
-208	fuhaiming	亲，我刚买的[花/产品]把地址和我写反了
-207	fuhaiming	[连衣裙/产品] 中长 [清欣/品牌]
-209	fuhaiming	[柔顺剂/产品]
-205	fuhaiming	给爸妈送礼物，送什么好呢？
-192	fuhaiming	买[耕田机/产品]
-198	fuhaiming	[万家林/品牌][空气清新机/产品]
-212	fuhaiming	我想买[女包/产品][斜挎包/产品]小[包/产品]
-210	fuhaiming	你感觉什么[手机/产品]好用
-211	fuhaiming	吉他[音箱/产品]
-1	TaoJiachun	我想要一张打印出来的去年全年[购物单/产品][纸/产品].直观方便.行么?
-5	TaoJiachun	你推荐的不是我需要的
-3	TaoJiachun	我刚刚收藏在购物车里的东西呢？
-2	TaoJiachun	[50000/规格][充电宝/产品]
-8	TaoJiachun	不是就是干性有些鱼尾纹
-10	TaoJiachun	化妆[拉杆箱/产品]
-9	TaoJiachun	一周岁女宝
-7	TaoJiachun	有没有儿童双人[手推车/产品]
-12	TaoJiachun	什么[咖啡豆/产品]好
-4	TaoJiachun	我要买收腰[长袖衫/产品]学生女
-6	TaoJiachun	我要买一台[游戏本/产品]
-13	TaoJiachun	高中生女
-16	TaoJiachun	我不要看什么宝宝的[书/产品]还没结婚呢
-18	TaoJiachun	淡粉色[鞋子/产品]
-17	TaoJiachun	[樊文花/品牌][面膜/产品]
-19	TaoJiachun	碳烤
-11	TaoJiachun	我要买[咬咬乐/产品]
-22	TaoJiachun	送什么
-23	TaoJiachun	夏季[鞋子/产品]
-20	TaoJiachun	我要买[拉拉裤/产品]
-214	fuhaiming	适合山东春天穿的[孕妇套装/产品]
-217	fuhaiming	[粘土/材料][模具/产品]应该买什么好？
-213	fuhaiming	想买双跑步[女鞋/产品]
-215	fuhaiming	小[糖果/产品]
-221	fuhaiming	我想买[气垫/产品]
-216	fuhaiming	儿童[卡丁车/产品]
-220	fuhaiming	我说的是[外套/产品]，春秋穿的
-222	fuhaiming	想买男款能量[吊坠/产品]
-224	fuhaiming	敏感护肤
-225	fuhaiming	我要买[婴儿推车/产品]轻便的小点的
-223	fuhaiming	绿色的墙配什么样的[贴饰/产品]
-226	fuhaiming	[裤子/产品]男亮色，宽松[裤子/产品]男[长裤/产品]
-219	fuhaiming	我想找[一款/规格][包/产品]
-1	xuminhan	我想要一张打印出来的去年全年[购物单纸/产品].直观方便.行么?
-25	xuminhan	139还一个[裙子/产品]，你有没搞错，那么贵
-24	xuminhan	[宝格丽/品牌]
-15	xuminhan	适合40岁以下的人穿的[风衣/产品]
-29	xuminhan	我有一套[衣服/产品]不知搭什么[外套/产品]
-28	xuminhan	我想找二手[苹果/品牌][6sp/型号][手机/产品]
-31	xuminhan	您好，我拍错了，想要[菲克斯曼/品牌]家用[工具箱/产品][17寸/规格][z0103/型号]
-32	xuminhan	10元的[表链/产品]([16mm/规格])[铁链/产品]
-14	xuminhan	长袖加绒
-34	xuminhan	想买只[保温壸盖子/产品]
-33	xuminhan	我要吃辣的
-35	xuminhan	辣鸡辣鸡
-36	xuminhan	我想买东西可是淘宝地址填不到这里啊
-30	xuminhan	想买[汽车座套/产品]
-39	xuminhan	我想买辆[自行车/产品]
-40	xuminhan	[u盘/产品]
-26	xuminhan	[眼线膏/产品]
-41	xuminhan	想买[睡衣/产品]，但是又怕短了
-27	xuminhan	你们这个有人工服务，没有
-42	xuminhan	电动新传[灯笼/产品]
-43	xuminhan	莪自己的[皮衣/产品]要拍賣出去
-46	xuminhan	推荐一款淡淡的香味的[香水/产品]
-38	xuminhan	夏季的半袖之类的
-37	xuminhan	东西太贵了
-47	xuminhan	买[手机膜/产品]的
-50	xuminhan	[苹果/品牌][手机/产品]卡槽
-48	xuminhan	女童[套装/产品][裙/产品]
-49	xuminhan	有没有优惠的[运动鞋/产品]啊
-53	xuminhan	有没有卖[千里追风油/产品]的
-45	xuminhan	要这款
-55	xuminhan	我想看看我的评价是什么，还有接头吗，还有那个图吗？
-44	xuminhan	[8G/规格][内存条/产品]
-21	TaoJiachun	我想下载[大码美衣/产品]
-57	TaoJiachun	我想买把打[鸟枪/产品]
-56	xuminhan	[小安素/型号][奶粉/产品]
-51	xuminhan	[脱水洗衣机/产品]
-52	TaoJiachun	[宝宝鞋/产品]1-3岁春秋
-60	xuminhan	婴儿[吸管杯/产品]
-61	TaoJiachun	床上四件套有没有[被芯/产品]
-62	TaoJiachun	像丸子会飞的[汽车/产品]
-58	TaoJiachun	需要买什么来换呢
-66	TaoJiachun	我今天在淘宝里想买一件[内衣/产品]，还没有下单前咨询了那家店的客服，她说我差评太多，不卖给我，还出口伤人的骂我，我想投诉她态度恶劣
-59	xuminhan	[崖柏/材料]
-63	xuminhan	胖mm喇叭[牛仔裤/产品]卖一送一
-64	TaoJiachun	想买中老年男春秋薄款实[棉/材料][睡衣/产品][裤子/产品]一百四十斤左右
-69	xuminhan	想买套[护肤品/产品]
-65	TaoJiachun	我要买好一点的[被子/产品]
-70	xuminhan	想买件短[外套/产品]，女
-72	TaoJiachun	[九鱼图/产品]
-68	xuminhan	[笔记本/产品][4G/规格]内存
-73	TaoJiachun	我想要买毛绒[玩具/产品]
-71	xuminhan	当我白问
-74	TaoJiachun	[魔方/产品][三级/规格]
-76	TaoJiachun	有没有便宜的[手机/产品]？
-67	TaoJiachun	儿童[帐篷/产品]
-77	xuminhan	[纹身膏/产品]
-81	xuminhan	蓝色竖条纹的
-78	TaoJiachun	及膝[古装/产品]
-82	TaoJiachun	爆笑[漫画/产品]
-54	xuminhan	我要找[收纳袋/产品]
-84	TaoJiachun	那你觉得什么[面膜/产品]好
-80	TaoJiachun	[鲁花/品牌][菜籽油/产品]
-83	xuminhan	我脚又胖又大穿什么好看呢
-79	TaoJiachun	有没有价格400元以下[充气娃娃/产品]
-75	xuminhan	中袖宽松[t恤/产品]
-88	TaoJiachun	[车床尾座/产品]
-86	xuminhan	软皮[包包/产品]
-91	TaoJiachun	想问一下，十岁孩子掉牙半年没长新牙，买什么给他吃好。
-92	xuminhan	推荐几款葫芦[粉扑/产品]
-89	TaoJiachun	男士[香体/产品]
-94	xuminhan	有没有便宜的[工作服/产品]
-87	xuminhan	我要买[普洱生茶/产品]
-90	TaoJiachun	三四个月女宝春[秋装/产品]
-98	TaoJiachun	大功率
-95	TaoJiachun	我要买[多浆植物/产品]
-99	TaoJiachun	人工服务啊
-85	xuminhan	[待产包/产品]什么牌子的好
-93	TaoJiachun	圆头浅口[平底鞋/产品]
-100	xuminhan	小猪配的是
-103	TaoJiachun	[短裤/产品]男
-97	TaoJiachun	老人用[智能机/产品]
-101	TaoJiachun	[华为/品牌][手机充电头/产品]
-107	TaoJiachun	女式[情趣用品/产品]
-96	xuminhan	[踩脚袜/产品]薄绒
-102	TaoJiachun	[碎花裙/产品]配什么[鞋子/产品]好看？
-109	xuminhan	3000元左右的
-106	TaoJiachun	买[杯子/产品]
-108	xuminhan	我要买[眉笔/产品]
-113	xuminhan	查看物流
-114	xuminhan	车载[自吸泵/产品]
-110	xuminhan	我要买东西 不知道买什么
-104	xuminhan	男士夏季[上衣/产品]
-105	xuminhan	毛质好一些的[化妆刷/产品]专业化妆师用
-118	xuminhan	小学生[内衣/产品]
-119	xuminhan	[哺乳外出衣/产品]
-115	xuminhan	[60厘米/规格]的[真皮/材料]女士[手套/产品]
-111	xuminhan	不是大妈
-116	xuminhan	有女票吗
-122	xuminhan	我想找[洋葱圈/产品]
-117	xuminhan	我想买短的[牛仔裤/产品]
-123	xuminhan	几百元的[4G/规格][联通/品牌][手机/产品]
-120	xuminhan	买Q币为什么不加购物总额？
-124	xuminhan	[2万毫安/规格][移动电源/产品]
-126	xuminhan	[摩托车/产品][电瓶充电器/产品]
-129	xuminhan	我要买[硬盘/产品]
-128	xuminhan	没钱币十
-130	xuminhan	喝奶奶
-125	xuminhan	[气垫/产品]轻透价格中等
-131	xuminhan	你有点6啊
-132	xuminhan	桃红
-127	xuminhan	休闲[运动鞋/产品]百搭的
-135	xuminhan	我想买一个能分期的界面，归你能给我推荐一下吗？
-121	xuminhan	买东西商家让我推荐，有证据，如何投诉
-136	xuminhan	高泡粉
-137	xuminhan	2017新款[打底衫/产品]可外穿
-140	xuminhan	我要买性能高的[游戏本/产品]
-134	xuminhan	我要秋天的
-142	xuminhan	要淘宝点卡[天宏一卡通/品牌] [易宝/品牌]接口
-139	xuminhan	手动[假阳具/产品]
-133	xuminhan	什么[机械键盘/产品]比较好
-144	xuminhan	l我要买[花盆/产品]
-146	xuminhan	[Zppo/品牌] [火机/产品]
-145	xuminhan	[春装/产品]外
-138	xuminhan	[兰瑟/品牌][BB霜/产品]
-143	xuminhan	[电脑风扇/产品]
-149	xuminhan	。长款[毛衣/产品][外套/产品]
-148	xuminhan	哈喽[运动裤/产品]
-141	xuminhan	要买粗一点的[轮胎线/产品]
-150	xuminhan	男运动[风衣/产品]
-147	xuminhan	可儿改装[娃娃/产品]
-152	xuminhan	保温[奶瓶/产品]两用
-154	xuminhan	拼色襯衫
-153	xuminhan	我想买个大码[衣服/产品]
-151	xuminhan	[购物卷/产品]无法使用
-156	xuminhan	[面膜/产品]是睡眠[面膜/产品]
-160	xuminhan	想要一个能装鞋的[旅行包/产品]
-159	xuminhan	变色[口红/产品]
-158	xuminhan	给我推荐一个[小米/品牌][4C/型号]的[钢化膜/产品]
-162	xuminhan	[收腰裤/产品]
-164	xuminhan	五香红烧[牛肉/产品]
-163	xuminhan	修身[马甲/产品]
-166	xuminhan	[剪眉刀/产品]
-161	xuminhan	买[丽格海棠/产品]
-165	xuminhan	莪想要把一件[皮衣/产品]拍賣出去
-168	xuminhan	成语[故事书/产品]
-155	xuminhan	要[滕席/产品][三人/规格]坐位，[二人/规格]坐位，[一人/规格]坐位。
-170	xuminhan	女生[单肩包/产品][包/产品]
-167	xuminhan	女[运动服/产品]大码
-172	xuminhan	宝宝[衣服/产品][套装/产品]6个月
-173	xuminhan	指甲
-174	xuminhan	我要[oppoa59s/型号]
-175	xuminhan	我想找那种防止微信的[太阳帽/产品]
-171	xuminhan	要最新款
-176	xuminhan	哺乳期吃的[零食/产品]
-177	xuminhan	有没有女吃的[伟哥/产品]
-179	xuminhan	中老年[奶粉/产品]
-180	xuminhan	好奇
-169	xuminhan	[黄金/材料][吊坠/产品]
-178	xuminhan	韩式的
-183	xuminhan	我想买个19.9包邮的男生[外套/产品]
-181	xuminhan	吴亦凡[明信片/产品]
-184	xuminhan	女款[表/产品]
-182	xuminhan	我要买内蒙古生产的[神奇/品牌]牌[小活络丸/产品]
-185	xuminhan	我要买[唇液/产品]
-187	xuminhan	购物卷可不可以叠加使用
-189	xuminhan	[汽车发动机/产品]
-191	xuminhan	二年级买什么故事比较好
-190	xuminhan	高压[气枪/产品]
-186	xuminhan	江苏无锡的装修
-188	xuminhan	青少年
-192	xuminhan	买[耕田机/产品]
-193	xuminhan	[水壶/产品]3，4块钱的
-196	xuminhan	好奇铂金装[纸尿裤/产品][M/型号]码
-197	xuminhan	骨架大
-198	xuminhan	[万家林/品牌][空气清新机/产品]
-200	xuminhan	[帮宝适/品牌]
-194	xuminhan	算了，辛苦小蜜了
-201	xuminhan	壮阳的
-157	xuminhan	我要找闲[鱼网/产品]
-204	xuminhan	香辣[金针菇/产品]
-199	xuminhan	男士[墨镜/产品]黑色
-202	xuminhan	我要买男幼婴薄[外套/产品]
-203	xuminhan	买[CPU/产品]
-207	xuminhan	[连衣裙/产品] 中长 清欣
-208	xuminhan	亲，我刚买的[花/产品]把地址和我写反了
-195	xuminhan	便宜的[乳液/产品]
-211	xuminhan	[吉他/产品][音箱/产品]
-212	xuminhan	我想买[女包/产品][斜挎包/产品][小包/产品]
-209	xuminhan	[柔顺剂/产品]
-210	xuminhan	你感觉什么[手机/产品]好用
-215	xuminhan	小[糖果/产品]
-213	xuminhan	想买双跑步[女鞋/产品]
-217	xuminhan	粘土[模具/产品]应该买什么好？
-205	xuminhan	给爸妈送礼物，送什么好呢？
-214	xuminhan	适合山东春天穿的孕妇[套装/产品]
-206	xuminhan	增粗增长
-221	xuminhan	我想买[气垫/产品]
-218	xuminhan	10只到12岁的
-220	xuminhan	我说的是[外套/产品]，春秋穿的
-222	xuminhan	想买男款能量[吊坠/产品]
-216	xuminhan	儿童[卡丁车/产品]
-226	xuminhan	[裤子/产品]男亮色，宽松[裤子/产品]男[长裤/产品]
-223	xuminhan	绿色的墙配什么样的[贴饰/产品]
-219	xuminhan	我想找一款[包/产品]
-228	xuminhan	我要的是[卫衣/产品]
-229	xuminhan	有没有流量多的卡，[移动/品牌]的流量太少了，马上就要上不了[淘宝/品牌]网了
-227	xuminhan	星星网纱上配小皇冠
-232	xuminhan	[芋头片/产品]
-225	xuminhan	我要买婴儿[推车/产品]轻便的小点的
-233	xuminhan	斜背[小包/产品]女
-231	xuminhan	便宜的[棉花糖机/产品]
-235	xuminhan	要那种过膝盖的夏季[连衣裙/产品]
-237	xuminhan	不增高 便宜点的
-234	xuminhan	就是跟客服联系时聊不了
-239	xuminhan	买[三文鱼/产品]送[芥末/产品]嘛？
-240	xuminhan	遮白发的[染发膏/产品]
-236	xuminhan	有没有什么好看的[衣服/产品]和[裤子/产品]呀
-242	xuminhan	[凉鞋/产品]露面的
-238	xuminhan	的[外套/产品]
-224	xuminhan	敏感护肤
-241	xuminhan	散装[辣条/产品]
-245	xuminhan	[m30/型号]带usb
-247	xuminhan	3/21-3-23有满减活动，我还差24块可以减20，我想找个也参加这个活动的[学饮杯/产品]
-244	xuminhan	买的一双[鞋/产品]一件[衣服/产品]，两家的，花了354，都是包邮产品，不是应该减30吗？为什么显示减20呢
-243	xuminhan	新款[休闲装/产品]
-249	xuminhan	我想看丸子头[发圈/产品]
-248	xuminhan	嫂子是微博，康，是七十八不多的时候嘞
-230	xuminhan	[坡跟鞋/产品]女
-253	xuminhan	高领紧身长袖女
-246	xuminhan	我想买[裙子/产品]
-251	xuminhan	胖MM[套装/产品][裙/产品]
-250	xuminhan	干性
-254	xuminhan	太小气了
-255	xuminhan	宝宝[香肠/产品]
-257	xuminhan	3.21
-256	xuminhan	春季[套装/产品]韩版，
-259	xuminhan	[橡皮糖/产品]
-252	xuminhan	胖妹妹的牛仔[外套/产品]
-260	xuminhan	我要买[豆笋/产品]
-258	xuminhan	我要买[罗技/品牌]游戏[鼠标/产品]
-261	xuminhan	[挎短裤/产品]
-262	xuminhan	我想买有收纳盒装的[玩具/产品]
-263	xuminhan	全自动[洗衣机/产品][9公斤/规格]
-264	xuminhan	春季女学生[单鞋/产品]，外增高！
-267	xuminhan	我想买二手[手机/产品][vivo/品牌][叉九/型号]的，但价位都在九百以下的，有没有？
-268	xuminhan	我想要散装[胰岛素药水/产品]
-265	xuminhan	秋冬季女加厚法兰绒[睡衣/产品]长袖开扣两件套
-269	xuminhan	这个太便宜了，黏胶货
-271	xuminhan	韩版的
-273	xuminhan	我需要鳄鱼纹路的
-275	xuminhan	带点儿的[手机/产品]
-276	xuminhan	怎么都没有[魔术贴/产品]
-274	xuminhan	我的奶奶生日要到了，可以给我推荐什么合适的生日礼物吗
-272	xuminhan	补水，美白，祛斑
-266	xuminhan	假两件短袖女
-280	xuminhan	女人的[内裤/产品]
-279	xuminhan	清朝女士[秋衣/产品]
-278	xuminhan	带魔音[手机/产品]
-281	xuminhan	男士[跑步鞋/产品]，透气性好的
-277	xuminhan	[百灵草/材料][修复霜/产品]
-283	xuminhan	斜挎女士小[包/产品]
-282	xuminhan	我要买原创[服装/产品]
-285	xuminhan	[衣服/产品] 腿粗
-287	xuminhan	黑牛
-270	xuminhan	要金色同款的
-284	xuminhan	春季[套装/产品]胖子女
-290	xuminhan	便宜的[七分裤/产品]
-286	xuminhan	[潘婷/品牌]
-292	xuminhan	求婚[蜡烛/产品]
-291	xuminhan	要买去唇部死皮的
-293	xuminhan	高腰白色蕾丝[裙/产品]
-296	xuminhan	[联想/品牌][小新/型号][笔记本电脑/产品]
-294	xuminhan	[订书机/产品]
-298	xuminhan	我要买白色[卫衣/产品]
-297	xuminhan	修身[西装/产品]
-289	xuminhan	充话费送电子券，有1000元我还没得到，请重新发密码，谢谢！
-300	xuminhan	给闺密买生日礼物
-301	xuminhan	多味[花生/产品]
-299	xuminhan	什么时候给我[手机/产品]啥？
-303	xuminhan	给我推荐几个[儿童电话/产品]
-288	xuminhan	道士小一点的
-295	xuminhan	我要买女春秋季学生连体[睡衣/产品]
-305	xuminhan	fff团[常服/产品]
-304	xuminhan	[Oppo/品牌] [手机/产品]
-307	xuminhan	这种不对
-302	xuminhan	[吹风机/产品]静音
-310	xuminhan	女士[休闲装/产品]
-309	xuminhan	我想买[笔/产品]可以不用红包吗优惠券刚好219
-308	xuminhan	[脚垫/产品]
-306	xuminhan	收缩
-314	xuminhan	送什么生日礼物比较好呢
-313	xuminhan	他就说，那你只能呃，嗯，再问呃，既然停产了，我怎么会有呢，就是一直用反问的语气，去跟我交流，然后嗯之前有一句话说到兔子质量好，托跟[奥迪/品牌]的也
-315	xuminhan	我想查询一笔2015年参加双11购买的一台[起亚/品牌][轿车/产品]的购买记录
-311	xuminhan	不要韩货
-318	xuminhan	有没有好看的[帆布鞋/产品]
-319	xuminhan	海底捞[火锅料/产品]
-321	xuminhan	便宜好用的
-322	xuminhan	[耐克/品牌]，正品店
-312	xuminhan	[移动/品牌]牌
-317	xuminhan	500元-800元
-324	xuminhan	[潘多拉/品牌][基础链/产品]
-316	xuminhan	平价[眼影/产品]
-325	xuminhan	我要买女童[套装/产品]
-323	xuminhan	破洞加长大码[牛仔裤/产品]
-326	xuminhan	粉色[衣服/产品]
-328	xuminhan	我想要春天的[外套/产品]
-330	xuminhan	那种比较好
-327	xuminhan	想买婴儿[学饮杯/产品]
-329	xuminhan	婴儿[卫衣/产品][外出服/产品]
-331	xuminhan	买二手[手机/产品]走[转转/品牌]有保障吗不满意可以退吗
-332	xuminhan	尖头小白[鞋/产品]
-335	xuminhan	男士休闲[中裤/产品]
-320	xuminhan	我要买[sp68/型号]
-333	xuminhan	[联想/品牌][w520/型号][笔记本电池/产品]
-339	xuminhan	性能超强游戏[笔记本/产品]！价格实惠
-334	xuminhan	野生
-341	xuminhan	[御泥坊/品牌]的
-338	xuminhan	[外套/产品][单衣/产品]
-336	xuminhan	为什么我想买票
-340	xuminhan	[风衣/产品]去哪家旗舰店买好
-343	xuminhan	我要找[药膏/产品]
-345	xuminhan	[妈咪袋/产品]
-342	xuminhan	想买[耐克/品牌]蓝[球鞋/产品]
-337	xuminhan	我要买[游戏本/产品]
-346	xuminhan	女人补血，买什么[药/产品]
-347	xuminhan	保暖[针织衫/产品]内搭
-344	xuminhan	有没有长沙到南京的快车
-352	xuminhan	婴儿夏季[网帽/产品]可调节
-349	xuminhan	我想买一个美美的[连衣裙/产品]
-351	xuminhan	您好我前几天买的[花/产品]发错品种了
-353	xuminhan	大学生[面试装/产品]女
-350	xuminhan	我要找[凉拌菜/产品]干货
-357	xuminhan	首页里面都是吃的，在哪看[衣服/产品]呢
-356	xuminhan	学生用的
-358	xuminhan	[棒球帽/产品] 夏
-354	xuminhan	我要买[皮裙/产品]
-361	xuminhan	[真皮/材料]浅口[单鞋/产品]女
-355	xuminhan	文艺 复古的
-359	xuminhan	[榄菊/品牌]
-363	xuminhan	想买小[车/产品]
-360	xuminhan	[长裙/产品]！
-365	xuminhan	牛仔[小腿裤/产品]
-348	xuminhan	我要买[百醇/品牌]
-366	xuminhan	氧化锌[乳膏/产品]这个脸上可以用吗有没有激素
-369	xuminhan	看一下[苹果/产品]7
-368	xuminhan	[宏碁/品牌]
-362	xuminhan	我想买个靠窗的位置，怎么买？
-370	xuminhan	二手[笔记本/产品][固态硬盘/产品]
-373	xuminhan	女士牛仔[外套/产品]宽松
-371	xuminhan	我要买那种[8寸/规格]的那种[铲刀/产品]，又是我上我买了上班用的，为什么没有卖呀？
-367	xuminhan	[苹果/品牌][6P/型号]
-374	xuminhan	那吊带[连衣裙/产品]呢，有没有啊
-375	xuminhan	我要买青少年喝的[羊奶/产品]请推荐
-376	xuminhan	1岁[牛仔褂/产品]
-377	xuminhan	我发的那款[裤子/产品]配什么[上衣/产品]好啊
-380	xuminhan	比较有纪念意义的
-372	xuminhan	十块以内！！
-382	xuminhan	我想买个商品在哪里拍下来
-378	xuminhan	推荐几款适合学生用的[香水/产品]
-379	xuminhan	我要性价比高的[耳机/产品]
-364	xuminhan	[OPPO/品牌] [A31/型号]
-384	xuminhan	有没有[250L/规格]的
-381	xuminhan	意外险
-388	xuminhan	小[帆布包/产品]斜挎
-385	xuminhan	金币领到一百就领不了
-390	xuminhan	薄膜粘在防盗门上应该用什么产品清洗
-391	xuminhan	上火，买什么[药/产品]效果好
-387	xuminhan	我要买儿童[鸭嘴杯/产品]
-383	xuminhan	大码小白[鞋/产品]
-392	xuminhan	有没有蒸[面包/产品]呀
-394	xuminhan	購物卷怎麼使用
-396	xuminhan	[泡爪/产品] 罐装
-386	xuminhan	我要买点东西在哪里可以买到
-395	xuminhan	溥长袖
-389	xuminhan	[袜子/产品] 韩版
-397	xuminhan	[炫迈/品牌]
-401	xuminhan	我要直掊贴的
-398	xuminhan	多平台
-393	xuminhan	6000以上
-403	xuminhan	买连帽[外套/产品]女
-400	xuminhan	什么[手机/产品]好用最好是国产的
-402	xuminhan	[包扣锁/产品][配件/产品]
-407	xuminhan	好吃又便宜的[零食/产品]
-408	xuminhan	10块以下
-406	xuminhan	我想要一个二手[手机/产品]
-409	xuminhan	[茅台/品牌]特供
-405	xuminhan	[真皮/材料][鞋/产品]
-410	xuminhan	[车座/产品]
-399	xuminhan	宽松
-411	xuminhan	有没有什么[香水/产品]适合三周大的宠物兔用
-404	xuminhan	购物卷不能满减
-413	xuminhan	我想买[护腰带/产品]
-416	xuminhan	销量最好的婴儿防滑[袜子/产品]
-418	xuminhan	[威化饼/产品]
-412	xuminhan	[影驰/型号]系列[显卡/产品]
-419	xuminhan	胃不好，想买点利于消化的[药/产品]
-417	xuminhan	淡水养殖小[鱼/产品]
-414	xuminhan	我想要20岁的浅口[单鞋/产品]
-421	xuminhan	一件宽松时尚带帽子的女士[卫衣/产品]
-420	xuminhan	失眠焦虑
-424	xuminhan	小孩体质差，我想买个[免疫球蛋白/产品]给他吃，什么牌子的效果好些
-425	xuminhan	美容的，男用品
-426	xuminhan	[风扇灯/产品]
-415	xuminhan	夏天短袖
-427	xuminhan	购物卷满349为什么只能用两张
-423	xuminhan	我要买[炖盅/产品]
-428	xuminhan	想买[手机/产品]！
-432	xuminhan	同关[手机/产品]了
-430	xuminhan	韩版宽松
-434	xuminhan	红色三脚的
-422	xuminhan	淘宝允许卖翻新机么？
-433	xuminhan	[一品望家/品牌]
-435	xuminhan	男生[内裤/产品]
-436	xuminhan	我要买[水烟/产品]
-439	xuminhan	[s/规格]号[瘦身衣/产品]
-437	xuminhan	老人[护理垫/产品]，卧床老人用的
-429	xuminhan	花格[衬衫/产品]
-438	xuminhan	有木有[睫毛增长液/产品]
-440	xuminhan	[唱戏机/产品]
-431	xuminhan	我想要[脱毛膏/产品]
-442	xuminhan	[OPPO/品牌] [R9/型号]的[手机/产品][后膜/产品]
-446	xuminhan	你给我推荐这样的[茶叶/产品]，你这么有本事咋不上天呢
-445	xuminhan	免洗睡眠[面膜/产品]
-441	xuminhan	中大[童鞋/产品]
-444	xuminhan	修身显瘦
-450	xuminhan	[华为/品牌][荣耀/品牌][magic/型号]好看的套
-447	xuminhan	[茶具/产品]套装
-449	xuminhan	有没有好看的[斜挎包/产品]
-452	xuminhan	[华尔贝/品牌][矿灯/产品]，充电后久用，最好的
-451	xuminhan	想买薄的[手机/产品]
-443	xuminhan	男[唇膏/产品]
-454	xuminhan	最好是[发饰/产品]之类的
-455	xuminhan	[SSD/产品]
-458	xuminhan	我想要我两年内买过的所有[裤子/产品]链接
-457	xuminhan	[乐视/品牌][手机/产品]质量好不好？
-459	xuminhan	[套装/产品]女2017春季新款韩版休闲运动[外套/产品][棒球服/产品][夹克/产品][长裤/产品]时尚两件套潮颜色分类:白色优质[套装/产品];尺码:[M/规格]高端定制¥59 ¥259×1等待卖家发货
-461	xuminhan	[秋装/产品]新款
-453	xuminhan	买什么[多肉植物/产品]最好？
-463	xuminhan	我要人工客服！
-464	xuminhan	[钓箱/产品]3件套
-462	xuminhan	买墨水[笔座/产品]
-448	xuminhan	我还想买这件[衣服/产品]，可是找不到了?
-456	xuminhan	[45-50cm/规格][毛绒玩具/产品]
-460	xuminhan	[箱子/产品]
-468	xuminhan	百搭[衣服/产品]女
-465	xuminhan	有没有又便宜又是一身的[工作服/产品]
-466	xuminhan	[吸顶灯/产品]
-471	xuminhan	我要定型保湿不油腻的头发[喷雾/产品]
-470	xuminhan	[紫草膏/产品]
-472	xuminhan	我想要用在[短裤/产品]
-469	xuminhan	都不好看
-475	xuminhan	我想买[吸奶器/产品]
-473	xuminhan	保暖[内衣/产品]加绒加厚冬
-478	xuminhan	有没有客服销售乱报价现象
-477	xuminhan	购买[洗发水/产品]
-479	xuminhan	卧室[台灯/产品]
-474	xuminhan	我要买[巧克力/产品]威化
-481	xuminhan	我想买别的[鞋子/产品]，但是没钱
-476	xuminhan	[灯/产品][灯/产品][灯/产品]
-467	xuminhan	乳
-480	xuminhan	我想看到你们上面的[水果/产品]，下次我想要100个品种，每个[水果/产品]的都要遥控，不可以。
-485	xuminhan	家用[餐桌/产品]
-487	xuminhan	买的[卡乐比/品牌][麦片/产品]可以推荐吗
-484	xuminhan	宽松[连衣裙/产品]
-482	xuminhan	[珍珠粉/产品]
-489	xuminhan	山西[移动/品牌]流量充值500M省内本地流量包当月有效自动充值 ¥20.5 ¥22.5×1交易成功
-488	xuminhan	我要[华为/品牌][荣耀/品牌][v9/型号]
-491	xuminhan	超胖女款休闲[针织衫/产品] 圆领 长袖
-483	xuminhan	男小白[鞋/产品]
-492	xuminhan	买[唇膏/产品]
-486	xuminhan	我想找[电脑板/产品]，找不到
-493	xuminhan	漂亮有个性的[台灯/产品]
-494	xuminhan	美白，去斑。
-498	xuminhan	我要买[儿童车/产品]。可推可踩的[三轮车/产品]
-496	xuminhan	我想找[鞋柜/产品]
-490	xuminhan	天猫优惠券可以用吗
-499	xuminhan	孕妇[连衣裙/产品]
-497	xuminhan	我想买小[卷纸/产品]
-502	xuminhan	现在哪款[手机/产品]好用
-500	xuminhan	萝莉
-503	xuminhan	这样只能看到几个，我想看最开始买的订单怎么看
-227	fuhaiming	星星[网纱/产品]上配小[皇冠/产品]
-230	fuhaiming	[坡跟鞋/产品]女
-232	fuhaiming	[芋头片/产品]
-231	fuhaiming	便宜的[棉花糖机/产品]
-233	fuhaiming	斜背小[包/产品]女
-229	fuhaiming	有没有流量多的[卡/产品]，移动的流量太少了，马上就要上不了淘宝网了
-234	fuhaiming	就是跟客服联系时聊不了
-236	fuhaiming	有没有什么好看的[衣服/产品]和[裤子/产品]呀
-218	fuhaiming	[10只/规格]到12岁的
-238	fuhaiming	的[外套/产品]
-228	fuhaiming	我要的是[卫衣/产品]
-237	fuhaiming	不增高 便宜点的
-242	fuhaiming	[凉鞋/产品]露面的
-239	fuhaiming	买[三文鱼/产品]送[芥末/产品]嘛？
-241	fuhaiming	散装[辣条/产品]
-245	fuhaiming	[m30/产品]带[usb/产品]
-243	fuhaiming	新款[休闲装/产品]
-244	fuhaiming	买的[一双/规格][鞋/产品][一件/规格][衣服/产品]，两家的，花了354，都是包邮产品，不是应该减30吗？为什么显示减20呢
-240	fuhaiming	遮白发的[染发膏/产品]
-249	fuhaiming	我想看丸子头[发圈/产品]
-247	fuhaiming	3/21-3-23有满减活动，我还差24块可以减20，我想找个也参加这个活动的[学饮杯/产品]
-248	fuhaiming	嫂子是微博，康，是七十八不多的时候嘞
-235	fuhaiming	要那种过膝盖的夏季[连衣裙/产品]
-253	fuhaiming	高领紧身长袖女
-252	fuhaiming	[胖妹妹/品牌]的牛仔[外套/产品]
-246	fuhaiming	我想买[裙子/产品]
-254	fuhaiming	太小气了
-256	fuhaiming	春季[套装/产品]韩版，
-250	fuhaiming	干性
-255	fuhaiming	[宝宝香肠/产品]
-259	fuhaiming	[橡皮糖/产品]
-251	fuhaiming	[胖MM/品牌][套装裙/产品]
-261	fuhaiming	[挎短裤/产品]
-257	fuhaiming	3.21
-262	fuhaiming	我想买有[收纳盒/产品]装的[玩具/产品]
-264	fuhaiming	春季女学生[单鞋/产品]，外增高！
-258	fuhaiming	我要买[罗技/品牌]游戏[鼠标/产品]
-265	fuhaiming	秋冬季女加厚法兰绒[睡衣/产品]长袖开扣两件套
-267	fuhaiming	我想买二手[手机/产品][vivo/品牌][叉九/型号]的，但价位都在九百以下的，有没有？
-266	fuhaiming	[假两件/产品][短袖/产品]女
-269	fuhaiming	这个太便宜了，黏胶货
-270	fuhaiming	要金色同款的
-271	fuhaiming	韩版的
-268	fuhaiming	我想要散装胰岛素[药水/产品]
-263	fuhaiming	全自动[洗衣机/产品][9公斤/规格]
-274	fuhaiming	我的奶奶生日要到了，可以给我推荐什么合适的生日礼物吗
-260	fuhaiming	我要买[豆笋/产品]
-272	fuhaiming	补水，美白，祛斑
-278	fuhaiming	带魔音[手机/产品]
-276	fuhaiming	怎么都没有[魔术贴/产品]
-275	fuhaiming	带点儿的[手机/产品]
-277	fuhaiming	[百灵草/材料][修复霜/产品]
-282	fuhaiming	我要买原创[服装/产品]
-281	fuhaiming	男士[跑步鞋/产品]，透气性好的
-280	fuhaiming	女人的[内裤/产品]
-273	fuhaiming	我需要鳄鱼纹路的
-286	fuhaiming	[潘婷/品牌]
-287	fuhaiming	[黑牛/品牌]
-284	fuhaiming	春季[套装/产品]胖子女
-289	fuhaiming	充话费送电子券，有1000元我还没得到，请重新发密码，谢谢！
-283	fuhaiming	斜挎女士小[包/产品]
-290	fuhaiming	便宜的[七分裤/产品]
-285	fuhaiming	[衣服/产品] 腿粗
-293	fuhaiming	高腰白色[蕾丝裙/产品]
-292	fuhaiming	求婚[蜡烛/产品]
-291	fuhaiming	要买去唇部死皮的
-296	fuhaiming	[联想/品牌][小新/型号][笔记本电脑/产品]
-279	fuhaiming	清朝女士秋[衣/产品]
-294	fuhaiming	[订书机/产品]
-298	fuhaiming	我要买白色[卫衣/产品]
-299	fuhaiming	什么时候给我[手机/产品]啥？
-288	fuhaiming	道士小一点的
-295	fuhaiming	我要买女春秋季学生连体[睡衣/产品]
-303	fuhaiming	给我推荐几个[儿童电话/产品]
-301	fuhaiming	多味[花生/产品]
-305	fuhaiming	fff团[常服/产品]
-297	fuhaiming	修身[西装/产品]
-306	fuhaiming	收缩
-302	fuhaiming	[吹风机/产品]静音
-308	fuhaiming	[脚垫/产品]
-310	fuhaiming	女士[休闲装/产品]
-307	fuhaiming	这种不对
-312	fuhaiming	[移动牌/产品]
-309	fuhaiming	我想买[笔/产品]可以不用红包吗优惠券刚好219
-313	fuhaiming	他就说，那你只能呃，嗯，再问呃，既然停产了，我怎么会有呢，就是一直用反问的语气，去跟我交流，然后嗯之前有一句话说到[兔子/产品]质量好，托跟[奥迪/品牌]的也
-314	fuhaiming	送什么生日礼物比较好呢
-315	fuhaiming	我想查询一笔2015年参加双11购买的[一台/规格][起亚/品牌][轿车/产品]的购买记录
-316	fuhaiming	平价[眼影/产品]
-300	fuhaiming	给闺密买生日礼物
-317	fuhaiming	500元-800元
-304	fuhaiming	[Oppo/品牌] [手机/产品]
-311	fuhaiming	不要韩货
-322	fuhaiming	[耐克/品牌]，正品店
-318	fuhaiming	有没有好看的[帆布鞋/产品]
-324	fuhaiming	[潘多拉/品牌][基础链/产品]
-323	fuhaiming	破洞加长大码[牛仔裤/产品]
-321	fuhaiming	便宜好用的
-325	fuhaiming	我要买女童[套装/产品]
-327	fuhaiming	想买婴儿[学饮杯/产品]
-328	fuhaiming	我想要春天的[外套/产品]
-320	fuhaiming	我要买[sp68/品牌]
-319	fuhaiming	海底捞[火锅料/产品]
-331	fuhaiming	买二手[手机/产品]走转转有保障吗不满意可以退吗
-332	fuhaiming	尖头小白[鞋/产品]
-334	fuhaiming	野生
-335	fuhaiming	男士休闲[中裤/产品]
-336	fuhaiming	为什么我想买票
-337	fuhaiming	我要买[游戏本/产品]
-326	fuhaiming	粉色[衣服/产品]
-333	fuhaiming	[联想/品牌][w520/型号][笔记本电池/产品]
-329	fuhaiming	[婴儿卫衣/产品][外出服/产品]
-340	fuhaiming	[风衣/产品]去哪家旗舰店买好
-1	meimei	我想要一张打印出来的去年全年[购物单纸/产品].直观方便.行么?
-338	meimei	[外套/产品][单衣/产品]
-339	meimei	性能超强游戏[笔记本/产品]！价格实惠
-341	meimei	[御泥坊/品牌]的
-344	meimei	有没有长沙到南京的[快车/产品]
-347	meimei	保暖[针织衫/产品]内搭
-348	meimei	我要买[百醇/产品]
-343	meimei	我要找[药膏/产品]
-330	meimei	那种比较好
-351	meimei	您好我前几天买的[花/产品]发错品种了
-350	meimei	我要找[凉拌菜干货/产品]
-345	meimei	[妈咪袋/产品]
-354	meimei	我要买[皮裙/产品]
-346	meimei	女人补血，买什么[药/产品]
-352	meimei	婴儿夏季[网帽/产品]可调节
-353	meimei	大学生[面试装/产品]女
-356	meimei	学生用的
-358	meimei	[棒球帽/产品] 夏
-357	meimei	首页里面都是吃的，在哪看[衣服/产品]呢
-359	meimei	[榄菊/品牌]
-349	meimei	我想买一个美美的[连衣裙/产品]
-361	meimei	[真皮/材料][浅口单鞋/产品]女
-355	meimei	文艺 复古的
-364	meimei	[OPPO/品牌] [A31/型号]
-363	meimei	想买小[车/产品]
-360	meimei	[长裙/产品]！
-368	meimei	[宏碁/品牌]
-366	meimei	[氧化锌乳膏/产品]这个脸上可以用吗有没有激素
-362	meimei	我想买个靠窗的位置，怎么买？
-370	meimei	[二手笔记本/产品][固态硬盘/规格]
-371	meimei	我要买那种[8寸/规格]的那种[铲刀/产品]，又是我上我买了上班用的，为什么没有卖呀？
-373	meimei	女士[牛仔/材料][外套/产品]宽松
-369	meimei	看一下[苹果/品牌][7/型号]
-365	meimei	[牛仔/材料][小腿裤/产品]
-367	meimei	[苹果/品牌][6P/型号]
-376	meimei	1岁[牛仔褂/产品]
-378	meimei	推荐几款适合学生用的[香水/产品]
-374	meimei	那[吊带连衣裙/产品]呢，有没有啊
-379	meimei	我要性价比高的[耳机/产品]
-375	meimei	我要买青少年喝的[羊奶/产品]请推荐
-382	meimei	我想买个商品在哪里拍下来
-383	meimei	大码[小白鞋/产品]
-384	meimei	有没有[250L/规格]的
-372	meimei	十块以内！！
-385	meimei	金币领到一百就领不了
-387	meimei	我要买[儿童鸭嘴杯/产品]
-377	meimei	我发的那款[裤子/产品]配什么[上衣/产品]好啊
-386	meimei	我要买点东西在哪里可以买到
-389	meimei	[袜子/产品] 韩版
-388	meimei	小[帆布/材料][包/产品]斜挎
-380	meimei	比较有纪念意义的
-393	meimei	6000以上
-392	meimei	有没有[蒸面包/产品]呀
-394	meimei	[購物卷/产品]怎麼使用
-381	meimei	[意外险/产品]
-391	meimei	上火，买什么[药/产品]效果好
-396	meimei	[泡爪/产品] [罐装/规格]
-390	meimei	薄膜粘在防盗门上应该用什么产品清洗
-398	meimei	多平台
-397	meimei	[炫迈/品牌]
-401	meimei	我要直掊贴的
-395	meimei	溥长袖
-404	meimei	购物卷不能满减
-399	meimei	宽松
-400	meimei	什么[手机/产品]好用最好是国产的
-407	meimei	好吃又便宜的[零食/产品]
-402	meimei	[包扣锁配件/产品]
-409	meimei	[茅台/品牌]特供
-405	meimei	[真皮/材料][鞋/产品]
-411	meimei	有没有什么[香水/产品]适合三周大的宠物兔用
-412	meimei	[影驰/型号]系列[显卡/产品]
-403	meimei	买[连帽外套/产品]女
-406	meimei	我想要一个[二手手机/产品]
-413	meimei	我想买[护腰带/产品]
-415	meimei	夏天[短袖/产品]
-410	meimei	[车座/产品]
-417	meimei	淡水养殖小[鱼/产品]
-408	meimei	10块以下
-420	meimei	失眠焦虑
-414	meimei	我想要20岁的[浅口单鞋/产品]
-416	meimei	销量最好的[婴儿防滑袜子/产品]
-421	meimei	一件宽松时尚带帽子的女士[卫衣/产品]
-424	meimei	小孩体质差，我想买个[免疫球蛋白/产品]给他吃，什么牌子的效果好些
-418	meimei	[威化饼/产品]
-425	meimei	美容的，男用品
-427	meimei	购物卷满349为什么只能用两张
-422	meimei	淘宝允许卖[翻新机/产品]么？
-428	meimei	想买[手机/产品]！
-426	meimei	[风扇灯/产品]
-423	meimei	我要买[炖盅/产品]
-430	meimei	韩版宽松
-429	meimei	花格[衬衫/产品]
-434	meimei	红色三脚的
-419	meimei	胃不好，想买点利于消化的[药/产品]
-436	meimei	我要买[水烟/产品]
-435	meimei	男生[内裤/产品]
-432	meimei	同关[手机/产品]了
-431	meimei	我想要[脱毛膏/产品]
-433	meimei	[一品望家/品牌]
-438	meimei	有木有[睫毛增长液/产品]
-442	meimei	[OPPO/品牌] [R9/型号]的[手机后膜/产品]
-441	meimei	中大[童鞋/产品]
-443	meimei	男[唇膏/产品]
-445	meimei	免洗[睡眠面膜/产品]
-439	meimei	[s号/型号][瘦身衣/产品]
-437	meimei	[老人护理垫/产品]，卧床老人用的
-447	meimei	[茶具套装/产品]
-440	meimei	[唱戏机/产品]
-444	meimei	修身显瘦
-449	meimei	有没有好看的[斜挎包/产品]
-450	meimei	[华为/品牌][荣耀/品牌][magic/产品]好看的[套/产品]
-453	meimei	买什么[多肉/产品]植物最好？
-448	meimei	我还想买这件[衣服/产品]，可是找不到了?
-446	meimei	你给我推荐这样的[茶叶/产品]，你这么有本事咋不上天呢
-454	meimei	最好是[发饰/产品]之类的
-451	meimei	想买薄的[手机/产品]
-457	meimei	[乐视/品牌][手机/产品]质量好不好？
-459	meimei	[套装/产品]女2017春季新款韩版休闲[运动外套/产品][棒球服/产品][夹克/产品][长裤/产品]时尚[两件套/产品]潮颜色分类:白色优质[套装/产品];尺码:[M/规格]高端定制¥59 ¥259×1等待卖家发货
-452	meimei	[华尔贝/品牌][矿灯/产品]，充电后久用，最好的
-456	meimei	[45-50cm/规格][毛绒玩具/产品]
-461	meimei	秋装新款
-460	meimei	[箱子/产品]
-455	meimei	[SSD/产品]
-465	meimei	有没有又便宜又是一身的[工作服/产品]
-458	meimei	我想要我两年内买过的所有[裤子/产品]链接
-466	meimei	[吸顶灯/产品]
-467	meimei	乳
-463	meimei	我要人工客服！
-462	meimei	买[墨水笔座/产品]
-470	meimei	[紫草膏/产品]
-472	meimei	我想要用在[短裤/产品]
-471	meimei	我要定型保湿不油腻的[头发喷雾/产品]
-469	meimei	都不好看
-464	meimei	[钓箱/产品][3件套/规格]
-475	meimei	我想买[吸奶器/产品]
-468	meimei	百搭[衣服/产品]女
-478	meimei	有没有客服销售乱报价现象
-476	meimei	[灯/产品][灯/产品][灯/产品]
-474	meimei	我要买[巧克力/产品][威化/产品]
-473	meimei	[保暖内衣/产品]加绒加厚冬
-482	meimei	[珍珠粉/产品]
-479	meimei	卧室[台灯/产品]
-480	meimei	我想看到你们上面的[水果/产品]，下次我想要100个品种，每个[水果/产品]的都要遥控，不可以。
-481	meimei	我想买别的[鞋子/产品]，但是没钱
-483	meimei	男[小白鞋/产品]
-477	meimei	购买[洗发水/产品]
-488	meimei	我要[华为/品牌][荣耀/品牌][v9/型号]
-487	meimei	买的[卡乐比/品牌][麦片/产品]可以推荐吗
-485	meimei	家用[餐桌/产品]
-484	meimei	宽松[连衣裙/产品]
-491	meimei	超胖女款休闲[针织衫/产品] 圆领 长袖
-492	meimei	买[唇膏/产品]
-493	meimei	漂亮有个性的[台灯/产品]
-490	meimei	天猫优惠券可以用吗
-495	meimei	买[衣服/产品]女神
-497	meimei	我想买小[卷纸/产品]
-486	meimei	我想找[电脑板/产品]，找不到
-496	meimei	我想找[鞋柜/产品]
-494	meimei	美白，去斑。
-498	meimei	我要买[儿童车/产品]。可推可踩的[三轮车/产品]
-500	meimei	萝莉
-503	meimei	这样只能看到几个，我想看最开始买的订单怎么看
-502	meimei	现在哪款[手机/产品]好用
-501	meimei	[牛津/材料][背包/产品]
-504	meimei	毛呢
-507	meimei	我想买件[衬衫/产品]是穿[38号/规格]还是穿[37号/规格]，我体重60公斤左右吧
-505	meimei	[小米/品牌][naote2/型号]
-508	meimei	[华为/品牌][手机/产品]
-489	meimei	山西[移动/品牌][流量/产品]充值[500M/规格]省内本地[流量包/产品]当月有效自动充值 ¥20.5 ¥22.5×1交易成功
-499	meimei	[孕妇连衣裙/产品]
-506	meimei	运存[3G/规格]，内存[32G/规格]，[二手手机/产品]
-512	meimei	女孩到7岁的肖
-511	meimei	什么[面膜/产品]补水又控油
-509	meimei	大容量[冰箱/产品]一级
-515	meimei	我想购买南阳到平顶山下午五点半的[火车/产品]，以前有，为什么现在没有了
-513	meimei	[珀微/品牌]好吗
-516	meimei	儿童[巴音盒/产品]
-510	meimei	[面膜/产品]美白
-518	meimei	哪我想买那件[衣服/产品]不可以加入购物车
-514	meimei	贵货[叶插苗/产品]
-517	meimei	我要买一千元左右的[手机/产品]
-523	meimei	[BB霜/产品]和[隔离霜/产品]组合
-524	meimei	培训班[自粘壁纸/产品]
-525	meimei	20-30
-526	meimei	想买一个这种[床/产品]，网上下不了单
-522	meimei	便宜好货
-528	meimei	我想找一个人工服务，
-521	meimei	男生[七分裤/产品]
-530	meimei	[春装/产品] [套装/产品]
-519	meimei	[黄金/产品]
-531	meimei	想买[性用品/产品]
-520	meimei	[外套/产品]中款
-529	meimei	跑步[运动鞋/产品]
-533	meimei	[夹克衫/产品]修身
-535	meimei	买家现在想要钱又要[手机/产品]
-536	meimei	[粥/产品]，可以自己煮的
-527	meimei	有没有比较便宜的[手机/产品]
-539	meimei	我想要中年加肥女[春装/产品]
-540	meimei	2017夏季[女装/产品]
-534	meimei	我想要结婚[婚纱/产品] 又便宜又好看
-532	meimei	[毛呢/材料][衣/产品]
-538	meimei	[游戏组装机/产品]
-541	meimei	胖妹[女装/产品]
-544	meimei	[防晒衣/产品]女
-542	meimei	小蜜麻麻生日送什么好？
-545	meimei	买那个[门铃/产品]帮我开发票
-547	meimei	我要买去角质
-549	meimei	爷爷80大寿 孙女该送什么礼物合适？
-546	meimei	[孕妇装/产品](⊙o⊙)哦
-548	meimei	超长待机[蓝牙耳机/产品]
-550	meimei	我去年买过的[奶粉/产品]儿，忘了网址了，怎么能找到网址？
-543	meimei	老婆150斤，请问买什么形号的[内裤/产品]？
-553	meimei	祛痘印，去皮肤泛黄的[面膜/产品]
-551	meimei	[十字绣/产品]真实回收的
-556	meimei	我要买[转笔/产品]
-555	meimei	要紧身的
-558	meimei	[A字裙/产品]配什么[短袖/产品]
-552	meimei	[开衫/产品] 杏色
-557	meimei	转角[沙发/产品]
-561	meimei	[婴舒宝/产品]超薄[拉拉裤/产品]
-562	meimei	[地球仪/产品]
-563	meimei	[饼干/产品][套装/规格]
-560	meimei	[熊娃娃/产品]
-554	meimei	[Ppsu/材料]
-537	meimei	18到24岁
-559	meimei	东方girls
-566	meimei	[伊利/产品][金领冠/型号]
-567	meimei	[凉鞋/产品]小学生女
-568	meimei	我想买[普洱/产品]
-571	meimei	买[芒果/产品]
-569	meimei	[手机/产品][偏振镜头/产品]
-572	meimei	去红血丝产品
-565	meimei	显瘦[连衣长裙/产品]
-570	meimei	大码[吊带长裙/产品]
-574	meimei	秋季整套[运动装/产品]
-577	meimei	我只想买[2号/型号]
-575	meimei	[海俪恩/品牌][美瞳/产品]
-576	meimei	有价位低点吗
-578	meimei	[荣耀/品牌]
-579	meimei	我要买蛋卷头[卷发棒/产品]
-582	meimei	我想买联系不上
-580	meimei	[可可粉模具/产品]
-581	meimei	我要买宿舍[电脑桌/产品]
-585	meimei	小蜜，我想要一个独一无二的毕业[同学录/产品]
-573	meimei	[黄花梨/材料]
-584	meimei	[象印/品牌][保温杯/产品]
-583	meimei	中学生夏季[短袖外套/产品]
-589	meimei	[小金橘/产品]
-564	meimei	便宜的[女装/产品]
-591	meimei	这款[裙/产品]的布料有没有[乔其纱/材料]？
-588	meimei	我要买[不规则裙/产品]
-586	meimei	浅蓝色[牛仔/材料][外套/产品][女装/产品]2017新款
-593	meimei	[背带裤/产品]15-16
-592	meimei	[双人床/产品]
-590	meimei	那个[魅族/品牌][mx5/型号]有吗？
-596	meimei	[唇液/产品]
-595	meimei	[小鸟/品牌]
-599	meimei	补水去黄的
-598	meimei	美白保湿美白去斑去黄用，却是
-601	meimei	[盆景/产品]
-600	meimei	吸黑头
-597	meimei	我想要个宽松版的[上衣/产品]，可以帮忙找找吗
-587	meimei	[牛仔衣/产品][假两件套/产品]
-602	meimei	送女士生日礼物送啥好
-603	meimei	[4G/规格]
-607	meimei	我要找[黄金棒/产品]
-604	meimei	我要找欧美风格[女装/产品]
-608	meimei	要儿童的
-609	meimei	在干嘛干嘛，不没有[书/产品]，[8斤/规格]要那个[拉杆/产品]吃
-610	meimei	我想要一条[背带裤/产品]亲
-612	meimei	[华为/品牌][手机/产品]和[荣耀/品牌]的区别
-605	meimei	我改签费是520元。其实退了才花280。再买2600元。我当时花了2800买的票。这样看还是退票划算
-606	meimei	[女装/产品]潮流
-613	meimei	我想买个排毒养颜的，因为现在给宝宝吃奶不知道可以用哪款
-594	meimei	[自粘书皮/产品]
-616	meimei	[简装衣柜/产品]
-617	meimei	休闲[套装/产品]。不是[睡衣/产品]
-619	meimei	这个颜色的[开衫/产品]外搭配什么样，的什么样的颜色的[裙子/产品]，好看
-618	meimei	我想要一个一米八的[大熊/产品]，要可爱一点的漂亮一点的
-621	meimei	我要买[毛孔收缩液/产品]
-620	meimei	我要买[洋酒/产品]
-611	meimei	买[牛肉丝/产品]
-624	meimei	[仿藤/材料]
-615	meimei	休闲厅
-626	meimei	我要买[板鞋/产品]
-622	meimei	选[移动电源/产品]？其实可以很简单！ 数码达人or电器小白都不怕！快试试发送“我要买[移动电源/产品]”或其他需求，让小蜜帮你挑吧~ 发送试试
-623	meimei	我想买[铅笔裤/产品]
-625	meimei	我想找我之前买[裤子/产品]的商户，可是我找不到哪一家
-629	meimei	[漫威/品牌]的[二手漫画/产品]
-614	meimei	[外套/产品]年轻女士
-630	meimei	买什么[牙膏/产品]好，7岁小孩
-627	meimei	[大王/品牌][天使/品牌]
-633	meimei	人家要买什么弄
-631	meimei	国产的什么牌子的[口红/产品]好用
-632	meimei	[豆豆鞋/产品]女孩
-636	meimei	我想问一下，想买个[二手瑞士表/产品]，怎么联系不上卖家呢
-637	meimei	我有黑头，毛孔粗大，还有痘印，你帮我推荐几款
-638	meimei	[地龙/产品]
-635	meimei	[去鸡皮皂/产品]
-639	meimei	中年的
-628	meimei	刚刚有没有用到优惠券？
-641	meimei	不油腻的[润唇膏/产品]
-644	meimei	[魅族/品牌][pro6plus/型号]
-645	meimei	女生115斤穿什么[衣服/产品]好看
-640	meimei	不包邮哦
-647	meimei	润肤的
-646	meimei	最耐用的[充电宝/产品]
-634	meimei	[野钓饲料/产品]
-642	meimei	[哺乳运动装/产品]
-649	meimei	价格是150
-650	meimei	男式大[破洞裤/产品]
-652	meimei	[手机/产品]300多的
-651	meimei	[E5/规格]处理器
-655	meimei	50左右
-643	meimei	想问一下有没有去眼黄的[眼药水/产品]
-656	meimei	夏季[套装/产品]
-648	meimei	我想买[丰田考斯特/品牌]的[操作台/产品]，[防光垫/产品]儿为什么咱们这没有呢，是没上架是怎么回事儿
-657	meimei	男士[外套/产品]韩版修身
-654	meimei	要买一个[魔幻陀螺/产品]
-661	meimei	[腊肠/产品]
-658	meimei	[不倒翁/产品]多层
-663	meimei	买[苹果/品牌][手机/产品]骗钱怎么办
-662	meimei	亲我在淘宝上拍了个[粉掌/产品]，花收到后居然已经死了，我问她们，她们说先给评价，过两天再补发，我很她们说我在不要了，然后我给他们给了差评，他们居然说投诉我，
-660	meimei	[卫衣/产品]女中长款
-665	meimei	欧洲[化妆水/产品]
-659	meimei	[电动增压泵/产品]
-667	meimei	[邦邦熊/品牌][手表/产品]
-669	meimei	请问1岁小孩买什么[玩具/产品]
-666	meimei	有没有适合[vivo/品牌][x5l/型号]的[手机壳/产品]
-653	meimei	[耳机/产品] 隔音
-672	meimei	[床上护栏/产品]
-671	meimei	g
-664	meimei	废柴修仙的。
-674	meimei	挂耳式[蓝牙耳机/产品]
-675	meimei	我要买[电动遥控四轮车/产品]钥匙启动
-670	meimei	我要买祛痘印
-678	meimei	正装了
-676	meimei	男士个性[口罩/产品]
-668	meimei	[烟酰胺/产品]
-673	meimei	我要买[外套/产品]春 女
-677	meimei	我需要推荐一个[伞车/产品]，避震，高观可躺500元以内的，最重要避震
-683	meimei	白色[连衣长裙/产品]
-684	meimei	31女人的[衣服/产品]
-679	meimei	带[帽子/产品]
-682	meimei	[外套/产品] 男
-681	meimei	我要买中长款[棉袄/产品]
-686	meimei	全侧透
-680	meimei	有没有罗源去云霄[火车/产品]
-690	meimei	国产的
-691	meimei	[小米/品牌][移动电源/产品]
-688	meimei	那好吧，你就帮我找一个[置物架/产品]。
-694	meimei	小孩子[三轮子/产品]
-687	meimei	高效[化妆水/产品]
-693	meimei	休闲甜美
-697	meimei	[pp/材料][储奶瓶/产品]
-689	meimei	[5寸/规格]屏的[vivo/品牌][手机/产品]
-692	meimei	[华为/品牌][荣耀/品牌][v8/型号]
-696	meimei	要20岁人穿的[裙子/产品]
-701	meimei	助性工具
-702	meimei	有没有[棉麻/材料]的[外套/产品]
-698	meimei	不好意思是个小女生儿，我想要一个可爱漂亮的[耳环/产品]，而且是而且是小女生，学生戴的[耳环/产品]。
-704	meimei	買[零食/产品]可以送來台灣嗎
-703	meimei	情侣纯色[手机壳/产品]
-705	meimei	春[上衣/产品]
-706	meimei	想买[吊瓜子/产品]
-707	meimei	我要找[面霜/产品]
-699	meimei	宝宝可以开的[挖机/产品]
-710	meimei	[360/品牌][N5/型号][手机/产品]，不知道吗？
-695	meimei	字母k的[衣服/产品]
-708	meimei	我要买[蓝牙游戏手柄/产品]
-712	meimei	[或妆品/产品]
-713	meimei	厚实
-700	meimei	随便什么品牌都可以，只要是全网通就行
-711	meimei	想买辆成人和小孩都可以用的[自行车/产品]
-717	meimei	简约[水桶包/产品]
-718	meimei	找o-20块钱的[套装/产品]
-714	meimei	五十岁[爸爸装/产品]
-716	meimei	不要黑色的
-709	meimei	中年人送什么礼物好
-720	meimei	[阔腿短裤/产品]
-722	meimei	价格最[msata/品牌][硬盘/产品][128G/规格]
-721	meimei	[电蚊拍/产品]
-715	meimei	[金骏眉/品牌]与[正山小种/品牌]有什么区别？
-726	meimei	[婴儿三轮推车/产品]
-723	meimei	我要买[作训服/产品]
-727	meimei	要[白茶/产品]
-719	meimei	我要买宝宝补钙的
-730	meimei	护理眼睛的
-725	meimei	要送什么礼物给女朋友呢？才好
-728	meimei	最近发胖好多，想买一款[减肥产品/产品]
-729	meimei	马尾[假发/产品] 中长
-724	meimei	[真皮/材料][皮衣/产品]
-735	meimei	[烟酰胺/产品]
-731	meimei	[素描本/产品]
-733	meimei	亲亲，您是想要咨询极速退款的什么问题呢？小蜜猜您想知道的一定在下面，直接点击查看吧~ 为什么我之前能够享受“极速退款”，现在却不可以？
-736	meimei	[计步器/产品]
-738	meimei	我要买[铅笔盒/产品]
-739	meimei	我是想要和这张差不多的[墙纸贴/产品]
-737	meimei	[袜子/产品]。
-742	meimei	[针织马甲/产品]
-732	meimei	春季新款[女装/产品][上衣/产品]，[连衣裙/产品]
-741	meimei	1060
-734	meimei	我要买[护手霜/产品]
-743	meimei	时尚点的[春装/产品]搭配
-746	meimei	[爬行毯/产品]
-744	meimei	送你什么[花/产品]
-740	meimei	夏天[拉拉裤/产品]
-749	meimei	便宜好吃的[水果/产品]
-750	meimei	我想买[工作服装/产品]带执勤臂章的[短袖衬衫/产品]
-751	meimei	我想要改一下我的收货地址，怎么改小蜜？
-747	meimei	我要买[口红小样/产品]
-745	meimei	[糖村/品牌]
-748	meimei	我想要投诉一个客服
-756	meimei	我想要[情侣鞋/产品]
-754	meimei	[0.38/规格]中性[晨光/品牌][黑笔芯/产品][盒装/规格]
-755	meimei	买[苹果/品牌][se/型号][手机/产品]
-112	TaoJiachun	要[刻字理发器/产品]
-504	TaoJiachun	毛呢
-495	TaoJiachun	买[衣服/产品]女神
-505	TaoJiachun	[小米/品牌]naote2
-508	TaoJiachun	[华为/品牌][手机/产品]
-511	TaoJiachun	什么[面膜/产品]补水又控油
-506	TaoJiachun	运存[3G/规格]，内存[32G/规格]，二手[手机/产品]
-512	TaoJiachun	女孩到7岁的肖
-513	TaoJiachun	[珀微/品牌]好吗
-510	TaoJiachun	[面膜/产品]美白
-514	TaoJiachun	贵货[叶插苗/产品]
-515	TaoJiachun	我想购买南阳到平顶山下午五点半的[火车/产品]，以前有，为什么现在没有了
-518	TaoJiachun	哪我想买那件[衣服/产品]不可以加入购物车
-507	TaoJiachun	我想买件[衬衫/产品]是穿[38号/规格]还是穿[37号/规格]，我体重[60公斤/规格]左右吧
-517	TaoJiachun	我要买一千元左右的[手机/产品]
-521	TaoJiachun	男生[七分裤/产品]
-509	TaoJiachun	大容量[冰箱/产品][一级/规格]
-516	TaoJiachun	儿童[巴音盒/产品]
-520	TaoJiachun	[外套/产品][中/规格]款
-525	TaoJiachun	20-30
-526	TaoJiachun	想买一个这种[床/产品]，网上下不了单
-519	TaoJiachun	[黄金/产品]
-522	TaoJiachun	便宜好货
-527	TaoJiachun	有没有比较便宜的[手机/产品]
-529	TaoJiachun	跑步[运动鞋/产品]
-528	TaoJiachun	我想找一个人工服务，
-530	TaoJiachun	[春装/产品] [套装/产品]
-524	TaoJiachun	培训班[自粘壁纸/产品]
-533	TaoJiachun	[夹克衫/产品]修身
-532	TaoJiachun	[毛呢衣/产品]
-535	TaoJiachun	买家现在想要钱又要[手机/产品]
-537	TaoJiachun	18到24岁
-536	TaoJiachun	[粥/产品]，可以自己煮的
-534	TaoJiachun	我想要结婚[婚纱/产品] 又便宜又好看
-538	TaoJiachun	游戏[组装机/产品]
-523	TaoJiachun	[BB霜/产品]和[隔离霜/产品]组合
-542	TaoJiachun	小蜜麻麻生日送什么好？
-540	TaoJiachun	2017夏季[女装/产品]
-544	TaoJiachun	[防晒衣/产品]女
-531	TaoJiachun	想买[性用品/产品]
-541	TaoJiachun	胖妹[女装/产品]
-546	TaoJiachun	[孕妇装/产品](⊙o⊙)哦
-543	TaoJiachun	老婆150斤，请问买什么形号的[内裤/产品]？
-547	TaoJiachun	我要买去角质
-539	TaoJiachun	我想要中年加肥女[春装/产品]
-550	TaoJiachun	我去年买过的[奶粉/产品]儿，忘了网址了，怎么能找到网址？
-545	TaoJiachun	买那个[门铃/产品]帮我开发票
-553	TaoJiachun	祛痘印，去皮肤泛黄的[面膜/产品]
-549	TaoJiachun	爷爷80大寿 孙女该送什么礼物合适？
-551	TaoJiachun	[十字绣/产品]真实回收的
-555	TaoJiachun	要紧身的
-552	TaoJiachun	[开衫/产品] 杏色
-548	TaoJiachun	超长待机[蓝牙耳机/产品]
-559	TaoJiachun	东方girls
-554	TaoJiachun	[Ppsu/产品]
-556	TaoJiachun	我要买[转笔/产品]
-558	TaoJiachun	[A字裙/产品]配什么[短袖/产品]
-557	TaoJiachun	[转角沙发/产品]
-561	TaoJiachun	[婴舒宝/品牌]超薄[拉拉裤/产品]
-563	TaoJiachun	[饼干/产品]套装
-566	TaoJiachun	[伊利/品牌][金领冠/型号]
-565	TaoJiachun	显瘦连衣[长裙/产品]
-568	TaoJiachun	我想买[普洱/产品]
-560	TaoJiachun	[熊娃娃/产品]
-562	TaoJiachun	[地球仪/产品]
-571	TaoJiachun	买[芒果/产品]
-570	TaoJiachun	大码[吊带长裙/产品]
-572	TaoJiachun	去红血丝产品
-567	TaoJiachun	[凉鞋/产品]小学生女
-569	TaoJiachun	[手机/产品][偏振镜头/产品]
-574	TaoJiachun	秋季整套[运动装/产品]
-576	TaoJiachun	有价位低点吗
-575	TaoJiachun	[海俪恩/品牌][美瞳/产品]
-573	TaoJiachun	[黄花梨/产品]
-577	TaoJiachun	我只想买2号
-564	TaoJiachun	便宜的[女装/产品]
-579	TaoJiachun	我要买蛋卷头[卷发棒/产品]
-581	TaoJiachun	我要买宿舍[电脑桌/产品]
-584	TaoJiachun	[象印/品牌][保温杯/产品]
-578	TaoJiachun	[荣耀/品牌]
-586	TaoJiachun	浅蓝色[牛仔/材料][外套/产品][女装/产品]2017新款
-580	TaoJiachun	[可可粉模具/产品]
-582	TaoJiachun	我想买联系不上
-587	TaoJiachun	[牛仔衣/产品]假[两件/规格]套
-585	TaoJiachun	小蜜，我想要一个独一无二的毕业[同学录/产品]
-501	xuminhan	牛津[背包/产品]
-592	xuminhan	[双人床/产品]
-588	xuminhan	我要买不规则[裙/产品]
-594	xuminhan	自粘[书皮/产品]
-595	xuminhan	小鸟
-583	xuminhan	中学生夏季短袖[外套/产品]
-590	xuminhan	那个[魅族/品牌][mx5/型号]有吗？
-597	xuminhan	我想要个宽松版的[上衣/产品]，可以帮忙找找吗
-593	xuminhan	[背带裤/产品]15-16
-596	xuminhan	[唇液/产品]
-601	xuminhan	[盆景/产品]
-600	xuminhan	吸黑头
-599	xuminhan	补水去黄的
-598	xuminhan	美白保湿美白去斑去黄用，却是
-591	xuminhan	这款[裙/产品]的布料有没有乔其纱？
-602	xuminhan	送女士生日礼物送啥好
-606	xuminhan	[女装/产品]潮流
-608	xuminhan	要儿童的
-604	xuminhan	我要找欧美风格[女装/产品]
-609	xuminhan	在干嘛干嘛，不没有书，8斤要那个拉杆吃
-611	xuminhan	买[牛肉丝/产品]
-605	xuminhan	我改签费是520元。其实退了才花280。再买2600元。我当时花了2800买的票。这样看还是退票划算
-612	xuminhan	[华为/品牌][手机/产品]和[荣耀/品牌]的区别
-613	xuminhan	我想买个排毒养颜的，因为现在给宝宝吃奶不知道可以用哪款
-614	xuminhan	[外套/产品]年轻女士
-616	xuminhan	简装[衣柜/产品]
-610	xuminhan	我想要一条[背带裤/产品]亲
-607	xuminhan	我要找[黄金棒/产品]
-615	xuminhan	休闲厅
-619	xuminhan	这个颜色的[开衫/产品]外搭配什么样，的什么样的颜色的[裙子/产品]，好看
-617	xuminhan	休闲[套装/产品]。不是[睡衣/产品]
-621	xuminhan	我要买[毛孔收缩液/产品]
-618	xuminhan	我想要一个一米八的大熊，要可爱一点的漂亮一点的
-620	xuminhan	我要买[洋酒/产品]
-603	xuminhan	[4G/规格]
-624	xuminhan	仿藤
-623	xuminhan	我想买[铅笔裤/产品]
-626	xuminhan	我要买[板鞋/产品]
-629	xuminhan	[漫威/品牌]的二手[漫画/产品]
-628	xuminhan	刚刚有没有用到优惠券？
-622	xuminhan	选[移动电源/产品]？其实可以很简单！ 数码达人or电器小白都不怕！快试试发送“我要买[移动电源/产品]”或其他需求，让小蜜帮你挑吧~ 发送试试
-630	xuminhan	买什么[牙膏/产品]好，7岁小孩
-625	xuminhan	我想找我之前买[裤子/产品]的商户，可是我找不到哪一家
-633	xuminhan	人家要买什么弄
-632	xuminhan	[豆豆鞋/产品]女孩
-631	xuminhan	国产的什么牌子的[口红/产品]好用
-634	xuminhan	野钓[饲料/产品]
-635	xuminhan	去鸡皮[皂/产品]
-637	xuminhan	我有黑头，毛孔粗大，还有痘印，你帮我推荐几款
-639	xuminhan	中年的
-627	xuminhan	[大王/品牌][天使/型号]
-642	xuminhan	哺乳[运动装/产品]
-643	xuminhan	想问一下有没有去眼黄的[眼药水/产品]
-640	xuminhan	不包邮哦
-641	xuminhan	不油腻的[润唇膏/产品]
-645	xuminhan	女生115斤穿什么[衣服/产品]好看
-644	xuminhan	[魅族/品牌][pro6plus/型号]
-647	xuminhan	润肤的
-646	xuminhan	最耐用的[充电宝/产品]
-638	xuminhan	地龙
-649	xuminhan	价格是150
-648	xuminhan	我想买[丰田/品牌][考斯特/型号]的[操作台/产品]，[防光垫/产品]儿为什么咱们这没有呢，是没上架是怎么回事儿
-653	xuminhan	[耳机/产品] 隔音
-651	xuminhan	[E5/型号][处理器/产品]
-652	xuminhan	[手机/产品]300多的
-636	xuminhan	我想问一下，想买个二手瑞士[表/产品]，怎么联系不上卖家呢
-650	xuminhan	男式大破洞[裤/产品]
-656	xuminhan	夏季[套装/产品]
-342	fuhaiming	想买[耐克/品牌][蓝球鞋/产品]
-658	fuhaiming	[不倒翁/产品]多层
-657	fuhaiming	男士[外套/产品]韩版修身
-661	fuhaiming	[腊肠/产品]
-655	fuhaiming	50左右
-663	fuhaiming	买[苹果/品牌][手机/产品]骗钱怎么办
-659	fuhaiming	电动[增压泵/产品]
-666	fuhaiming	有没有适合[vivo/品牌][x5l/型号]的[手机壳/产品]
-660	fuhaiming	[卫衣/产品]女中长款
-667	fuhaiming	[邦邦熊/品牌][手表/产品]
-665	fuhaiming	欧洲[化妆水/产品]
-670	fuhaiming	我要买祛痘印
-671	fuhaiming	g
-668	fuhaiming	[烟酰胺/产品]
-672	fuhaiming	床上[护栏/产品]
-674	fuhaiming	挂耳式蓝牙[耳机/产品]
-664	fuhaiming	废柴修仙的。
-675	fuhaiming	我要买电动遥控[四轮车/产品]钥匙启动
-676	fuhaiming	男士个性[口罩/产品]
-662	fuhaiming	亲我在淘宝上拍了个[粉掌/产品]，花收到后居然已经死了，我问她们，她们说先给评价，过两天再补发，我很她们说我在不要了，然后我给他们给了差评，他们居然说投诉我，
-673	fuhaiming	我要买[外套/产品]春 女
-680	fuhaiming	有没有罗源去云霄火车
-679	fuhaiming	带[帽子/产品]
-677	fuhaiming	我需要推荐一个[伞车/产品]，避震，高观可躺500元以内的，最重要避震
-669	fuhaiming	请问1岁小孩买什么[玩具/产品]
-678	fuhaiming	正装了
-684	fuhaiming	31女人的[衣服/产品]
-683	fuhaiming	白色连衣[长裙/产品]
-681	fuhaiming	我要买中长款[棉袄/产品]
-688	fuhaiming	那好吧，你就帮我找一个[置物架/产品]。
-682	fuhaiming	[外套/产品] 男
-691	fuhaiming	[小米/品牌]移动[电源/产品]
-690	fuhaiming	国产的
-689	fuhaiming	[5寸/规格]屏的[vivo/品牌][手机/产品]
-693	fuhaiming	休闲甜美
-695	fuhaiming	字母k的[衣服/产品]
-692	fuhaiming	[华为/品牌][荣耀/品牌][v8/型号]
-694	fuhaiming	小孩子[三轮子/产品]
-698	fuhaiming	不好意思是个小女生儿，我想要一个可爱漂亮的[耳环/产品]，而且是而且是小女生，学生戴的[耳环/产品]。
-699	fuhaiming	宝宝可以开的[挖机/产品]
-697	fuhaiming	[pp/材料][储奶瓶/产品]
-700	fuhaiming	随便什么品牌都可以，只要是全网通就行
-702	fuhaiming	有没有[棉麻/材料]的[外套/产品]
-696	fuhaiming	要20岁人穿的[裙子/产品]
-687	fuhaiming	高效[化妆水/产品]
-701	fuhaiming	助性工具
-704	fuhaiming	買[零食/产品]可以送來台灣嗎
-707	fuhaiming	我要找[面霜/产品]
-705	fuhaiming	春[上衣/产品]
-706	fuhaiming	想买[吊瓜子/产品]
-709	fuhaiming	中年人送什么礼物好
-710	fuhaiming	[360/品牌][N5/型号][手机/产品]，不知道吗？
-708	fuhaiming	我要买蓝牙[游戏手柄/产品]
-711	fuhaiming	想买辆成人和小孩都可以用的[自行车/产品]
-686	fuhaiming	全侧透
-713	fuhaiming	厚实
-715	fuhaiming	[金骏眉/产品]与[正山小种/产品]有什么区别？
-703	fuhaiming	情侣纯色[手机壳/产品]
-714	fuhaiming	五十岁爸爸装
-719	fuhaiming	我要买宝宝补钙的
-712	fuhaiming	或妆品
-718	fuhaiming	找o-20块钱的套装
-721	fuhaiming	[电蚊拍/产品]
-723	fuhaiming	我要买[作训服/产品]
-717	fuhaiming	简约[水桶包/产品]
-724	fuhaiming	[真皮/材料][皮衣/产品]
-726	fuhaiming	婴儿[三轮推车/产品]
-727	fuhaiming	要[白茶/产品]
-722	fuhaiming	价格最msata[硬盘/产品][128G/规格]
-728	fuhaiming	最近发胖好多，想买一款减肥产品
-725	fuhaiming	要送什么礼物给女朋友呢？才好
-720	fuhaiming	[阔腿短裤/产品]
-732	fuhaiming	春季新款[女装/产品][上衣/产品]，[连衣裙/产品]
-716	fuhaiming	不要黑色的
-733	fuhaiming	亲亲，您是想要咨询极速退款的什么问题呢？小蜜猜您想知道的一定在下面，直接点击查看吧~ 为什么我之前能够享受“极速退款”，现在却不可以？
-729	fuhaiming	马尾[假发/产品] 中长
-737	fuhaiming	[袜子/产品]。
-736	fuhaiming	[计步器/产品]
-730	fuhaiming	护理眼睛的
-740	fuhaiming	夏天[拉拉裤/产品]
-741	fuhaiming	1060
-742	fuhaiming	针织[马甲/产品]
-739	fuhaiming	我是想要和这张差不多的[墙纸贴/产品]
-734	fuhaiming	我要买[护手霜/产品]
-738	fuhaiming	我要买[铅笔盒/产品]
-745	fuhaiming	[糖村/品牌]
-731	fuhaiming	[素描本/产品]
-747	fuhaiming	我要买[口红/产品]小样
-746	fuhaiming	[爬行毯/产品]
-749	fuhaiming	便宜好吃的[水果/产品]
-751	fuhaiming	我想要改一下我的收货地址，怎么改小蜜？
-752	fuhaiming	女 [上衣/产品][下衣/产品]都可以
-748	fuhaiming	我想要投诉一个客服
-743	fuhaiming	时尚点的春[装/产品]搭配
-750	fuhaiming	我想买[工作服/产品]装带执勤臂章的[短袖衬衫/产品]
-753	fuhaiming	有没有客服！？？
-757	fuhaiming	粉红色小[西服/产品]短款圆领
-744	fuhaiming	送你什么[花/产品]
-759	fuhaiming	600左右的[显卡/产品]
-755	fuhaiming	买[苹果/品牌][se/型号][手机/产品]
-758	fuhaiming	办公设计的[书籍/产品]
-760	fuhaiming	超轻
-762	fuhaiming	小码[高跟女鞋/产品]
-761	fuhaiming	想买祛斑效果好点的[祛斑霜/产品]
-763	fuhaiming	我要买小学生[奶粉/产品]
-765	fuhaiming	[周大福/品牌]
-764	fuhaiming	安全高的
-756	fuhaiming	我想要[情侣鞋/产品]
-754	fuhaiming	[0.38/规格]中性晨光黑[笔芯/产品]盒装
-768	fuhaiming	小脚[鞋子/产品]
-770	fuhaiming	而且，我给他买滴，是聊套[衣服/产品]
-771	fuhaiming	我要刚才给你发的[电灯充电器/产品]
-766	fuhaiming	我要买[工具/产品]和[电钻/产品]
-774	fuhaiming	吃的[干货/产品]
-772	fuhaiming	打游戏
-775	fuhaiming	金属色
-769	fuhaiming	我要买东西，客服没有回应
-777	fuhaiming	[双头卧蚕笔/产品]
-776	fuhaiming	送男朋友什么礼物好一点
-773	fuhaiming	月经
-778	fuhaiming	我想买个[卧蚕笔/产品]
-780	fuhaiming	我要买[hello kity/品牌][美妆蛋/产品]
-782	fuhaiming	本人一米六，体重一百四十。想买[冲锋衣/产品]
-767	fuhaiming	想买件红色的[夹克/产品]宽松男款的 能不能推荐几个
-784	fuhaiming	有卖[安眠药/产品]吗
-783	fuhaiming	[小米/品牌][note5plus/型号][手机/产品]
-785	fuhaiming	[健身服/产品]夏[装/产品]女
-788	fuhaiming	[彩虹/品牌]
-789	fuhaiming	我要找嫁接[睫毛/产品]
-786	fuhaiming	想买3个月[宝宝睡袋/产品]，正好大小的！
-781	fuhaiming	嫁接[睫毛/型号]9D
-790	fuhaiming	[宝宝推车/产品]可以折叠
-779	fuhaiming	[化妆品/产品] 便宜
-792	fuhaiming	[床垫/产品]薄的
-793	fuhaiming	什么牌子的[睡衣/产品]好
-787	fuhaiming	我要买正宗的[火鸡面/产品]
-794	fuhaiming	100以下
-791	fuhaiming	我想看一下十月二月份镜买什么了
-796	fuhaiming	买[补水套装/产品]
-797	fuhaiming	价格便宜点的[卫衣/产品]
-799	fuhaiming	[运动鞋/产品]子17岁女
-802	fuhaiming	就想要这个
-798	fuhaiming	[麻棉/材料][长裙/产品]
-804	fuhaiming	皮毛体外-
-800	fuhaiming	[粉铺/产品]
-801	fuhaiming	都太贵了能便宜一点的
-807	fuhaiming	[尼尔机器元/产品]
-795	fuhaiming	是[门/产品]不是锁
-803	fuhaiming	不是，有什么推荐的
-806	fuhaiming	我想买抹茶[点心/产品]
-810	fuhaiming	有没有电动的伸缩[蚊帐/产品]吗？
-808	fuhaiming	[卫衣/产品]连帽宽松
-813	fuhaiming	[宠物窝/产品]
-814	fuhaiming	[美妆工具/产品]
-812	fuhaiming	[小童套装/产品]女
-809	fuhaiming	时尚。
-815	fuhaiming	春款气质[连衣裙/产品]
-816	fuhaiming	[爬山工具/产品]
-818	fuhaiming	比如，自然生成好看的
-820	fuhaiming	我想了解淘友们都在买什么宝贝
-817	fuhaiming	买[联想/品牌][手机/产品]
-821	fuhaiming	世界上最性感的[露胸衣/产品]
-811	fuhaiming	女票生日礼物
-823	fuhaiming	推荐几款变速[自行车/产品]，轻便，好用的，谢谢。
-805	fuhaiming	不标准
-822	fuhaiming	我就可以买[衣服/产品]了
-827	fuhaiming	我要男士短袖
-824	fuhaiming	[风衣/产品][外套/产品]
-829	fuhaiming	[美图/品牌][m6s/型号]
-825	fuhaiming	我要买这双[鞋/产品]可以便宜吗？ [鞋子/产品]是正品吗？
-831	fuhaiming	[海绵/材料][人字拖/产品]男
-832	fuhaiming	我自己买到的[鞋子/产品] 穿着不合适想要转卖 别人能看到 我的[鞋子/产品]也是在闲鱼上买的吗
-828	fuhaiming	男式休闲[上衣/产品]
-833	fuhaiming	南京[空气加湿器/产品]
-819	fuhaiming	我要买可直上飞机的[婴儿推车/产品]
-830	fuhaiming	我胖 要求大码[连衣裙/产品]
-836	fuhaiming	[背景墙/产品]
-838	fuhaiming	2842652
-834	fuhaiming	请问有没有客服回答啊
-837	fuhaiming	有没有假人试[衣服/产品]
-841	fuhaiming	推荐[女鞋/产品]店铺.有[40码/规格][女鞋/产品]就行
-835	fuhaiming	[白熊/品牌][啤酒/产品][六瓶/规格]
-840	fuhaiming	我要买长袖
-826	fuhaiming	吃货的世界
-844	fuhaiming	我要的是[力帆/品牌]欧式[战马A6/型号]的立柱[包角/产品]
-846	fuhaiming	哪款洗面控油祛痘好用
-839	fuhaiming	穿什么[衣服/产品]显瘦，[女装/产品]
-848	fuhaiming	[鲁花/品牌][花生油/产品]
-842	fuhaiming	显瘦春季套装
-843	fuhaiming	我前几天买的[手机/产品]想买个[钢化膜/产品]
-845	fuhaiming	我要买[鬼火一代/型号][天使眼/产品]
-850	fuhaiming	推荐几款[吹风机/产品]
-851	fuhaiming	可以其他类型的吗
-853	fuhaiming	我要1段[奶粉/产品]
-852	fuhaiming	那你帮我催催把，要不然[衣服/产品]回来都夏天了
-856	fuhaiming	我想找美容养颜，然后减肥的[茶/产品]
-849	fuhaiming	长袖厚[体恤/产品]
-847	fuhaiming	我想买[4片/规格][地砖/产品]，[20cm×100cm/规格]的，但是询问多家都说不卖，能帮我找个愿意卖给我的店铺吗？
-857	fuhaiming	有没有好的宝贝可以推荐
-859	fuhaiming	有没有去廊坊的火车
-861	fuhaiming	[斯拉/品牌][口红/产品]好吗
-855	fuhaiming	[锹/产品]
-854	fuhaiming	说话说话你们有没有客服？
-863	fuhaiming	我想买990[耳线/产品]
-864	fuhaiming	[货车电瓶/产品]
-860	fuhaiming	催情女用
-867	fuhaiming	应该不是敏感肌肤
-868	fuhaiming	去伤疤的产品
-862	fuhaiming	[实木/材料][儿童床/产品]
-870	fuhaiming	矮个子[衣服/产品]
-866	fuhaiming	Z11
-865	fuhaiming	玩具[毕业炮/产品]
-869	fuhaiming	有没有能放下驾驶证的短款[钱包/产品]
-874	fuhaiming	问你事儿粉色不是红色了
-871	fuhaiming	[遥控坦克/产品]
-875	fuhaiming	草莓[发卡/产品]
-872	fuhaiming	买[游戏本/产品]
-876	fuhaiming	[vivo/品牌][x5max/型号]这个型号的[手机壳/产品]
-879	fuhaiming	我要买[越野车/产品]
-873	fuhaiming	浅色系
-858	fuhaiming	买[化妆品/产品]什么行就是买[衣服/产品]，不行
-878	fuhaiming	[运动鞋/产品]子
-880	fuhaiming	地面[积模/产品]
-883	fuhaiming	我买[水果/产品]
-881	fuhaiming	情侣[衬衫/产品]
-882	fuhaiming	我要买女生穿的[单鞋/产品]
-884	fuhaiming	淘宝到底有没有人工客服？
-887	fuhaiming	[洁面乳/产品]
-877	fuhaiming	[苹果/品牌][笔记本/产品]
-886	fuhaiming	女学生[板鞋/产品]
-889	fuhaiming	给我推荐几中简历最实用的[耳机/产品]子
-891	fuhaiming	德国制造的新发明
-890	fuhaiming	好用的国货[护肤品/产品]
-888	fuhaiming	复古磨砂大框防辐射[眼镜/产品]
-892	fuhaiming	适合胖子穿的[裙子/产品]
-894	fuhaiming	有没有店家推荐，卖[裹胸/产品]的，我想买白色的厚的，不会透的那种
-895	fuhaiming	女中学生短款[棉服/产品]薄
-896	fuhaiming	破洞牛仔[牛仔裤/产品]
-885	fuhaiming	男女都能穿的[外套/产品]，好看的
-897	fuhaiming	白色[外套/产品]配什么颜色
-893	fuhaiming	手工制作[相册/产品]
-898	fuhaiming	[斜挎包/产品]男
-900	fuhaiming	[剃须刀电路板/产品]
-904	fuhaiming	[oppo/品牌][r9/型号]个性[手机壳/产品]
-901	fuhaiming	[移动/品牌]
-906	fuhaiming	信号强
-902	fuhaiming	美国产的[性保健品/产品][万艾可/产品]
-899	fuhaiming	我要买[拉花/产品]
-909	fuhaiming	[气船/产品]
-903	fuhaiming	九个月[宝宝奶粉/产品]
-911	fuhaiming	[泡酒/产品]
-908	fuhaiming	春款[衣服/产品]女
-905	fuhaiming	汽车[摆件/产品]
-910	fuhaiming	我要买[OPPO/品牌][A57/型号]的[手机壳/产品]个性简洁
-914	fuhaiming	春秋 [上衣/产品] [打底衫/产品] [T恤衫/产品]
-907	fuhaiming	我想找[儿童自行车/产品]
-654	xuminhan	要买一个[魔幻陀螺/产品]
-759	xuminhan	600左右的[显卡/产品]
-761	xuminhan	想买祛斑效果好点的[祛斑霜/产品]
-757	xuminhan	粉红色小[西服/产品]短款圆领
-753	xuminhan	有没有客服！？？
-762	xuminhan	小码[高跟女鞋/产品]
-764	xuminhan	安全高的
-760	xuminhan	超轻
-763	xuminhan	我要买小学生[奶粉/产品]
-768	xuminhan	小脚[鞋子/产品]
-765	xuminhan	[周大福/品牌]
-767	xuminhan	想买件红色的[夹克/产品]宽松男款的 能不能推荐几个
-771	xuminhan	我要刚才给你发的[电灯充电器/产品]
-769	xuminhan	我要买东西，客服没有回应
-773	xuminhan	月经
-772	xuminhan	打游戏
-766	xuminhan	我要买工具和[电钻/产品]
-776	xuminhan	送男朋友什么礼物好一点
-758	xuminhan	办公设计的[书籍/产品]
-777	xuminhan	双头[卧蚕笔/产品]
-770	xuminhan	而且，我给他买滴，是聊套[衣服/产品]
-778	xuminhan	我想买个[卧蚕笔/产品]
-781	xuminhan	[嫁接睫毛/产品][9D/规格]
-780	xuminhan	我要买[hello kity/品牌][美妆蛋/产品]
-774	xuminhan	吃的[干货/产品]
-783	xuminhan	[小米/品牌][note5plus/型号][手机/产品]
-784	xuminhan	有卖[安眠药/产品]吗
-779	xuminhan	[化妆品/产品] 便宜
-775	xuminhan	金属色
-782	xuminhan	本人一米六，体重一百四十。想买[冲锋衣/产品]
-789	xuminhan	我要找[嫁接睫毛/产品]
-785	xuminhan	[健身服/产品][夏装/产品]女
-787	xuminhan	我要买正宗的[火鸡面/产品]
-786	xuminhan	想买3个月宝宝[睡袋/产品]，正好大小的！
-790	xuminhan	宝宝[推车/产品]可以折叠
-791	xuminhan	我想看一下十月二月份镜买什么了
-792	xuminhan	[床垫/产品]薄的
-794	xuminhan	100以下
-795	xuminhan	是[门/产品]不是[锁/产品]
-788	xuminhan	彩虹
-796	xuminhan	买[补水套装/产品]
-793	xuminhan	什么牌子的[睡衣/产品]好
-797	xuminhan	价格便宜点的[卫衣/产品]
-800	xuminhan	[粉铺/产品]
-801	xuminhan	都太贵了能便宜一点的
-798	xuminhan	[麻棉/材料][长裙/产品]
-799	xuminhan	运动[鞋子/产品]17岁女
-806	xuminhan	我想买抹茶[点心/产品]
-804	xuminhan	皮毛体外-
-802	xuminhan	就想要这个
-807	xuminhan	[尼尔机器元/产品]
-805	xuminhan	不标准
-811	xuminhan	女票生日礼物
-812	xuminhan	小童[套装/产品]女
-803	xuminhan	不是，有什么推荐的
-813	xuminhan	[宠物窝/产品]
-808	xuminhan	[卫衣/产品]连帽宽松
-815	xuminhan	春款气质[连衣裙/产品]
-809	xuminhan	时尚。
-814	xuminhan	[美妆工具/产品]
-818	xuminhan	比如，自然生成好看的
-820	xuminhan	我想了解淘友们都在买什么宝贝
-816	xuminhan	[爬山工具/产品]
-819	xuminhan	我要买可直上飞机的[婴儿推车/产品]
-822	xuminhan	我就可以买[衣服/产品]了
-817	xuminhan	买[联想/品牌][手机/产品]
-825	xuminhan	我要买这双[鞋/产品]可以便宜吗？ [鞋子/产品]是正品吗？
-823	xuminhan	推荐几款变速[自行车/产品]，轻便，好用的，谢谢。
-821	xuminhan	世界上最性感的露胸[衣/产品]
-810	xuminhan	有没有电动的伸缩[蚊帐/产品]吗？
-827	xuminhan	我要男士短袖
-830	xuminhan	我胖 要求大码[连衣裙/产品]
-828	xuminhan	男式休闲[上衣/产品]
-832	xuminhan	我自己买到的[鞋子/产品] 穿着不合适想要转卖 别人能看到 我的[鞋子/产品]也是在闲鱼上买的吗
-829	xuminhan	[美图/品牌][m6s/型号]
-834	xuminhan	请问有没有客服回答啊
-826	xuminhan	吃货的世界
-833	xuminhan	南京[空气加湿器/产品]
-824	xuminhan	[风衣/产品][外套/产品]
-831	xuminhan	海绵[人字拖/产品]男
-836	xuminhan	[背景墙/产品]
-838	xuminhan	2842652
-841	xuminhan	推荐[女鞋/产品]店铺.有[40码/规格][女鞋/产品]就行
-837	xuminhan	有没有假人试[衣服/产品]
-842	xuminhan	显瘦春季[套装/产品]
-840	xuminhan	我要买长袖
-839	xuminhan	穿什么[衣服/产品]显瘦，[女装/产品]
-844	xuminhan	我要的是[力帆/品牌][欧式战马A6/型号]的[立柱包角/产品]
-843	xuminhan	我前几天买的[手机/产品]想买个[钢化膜/产品]
-848	xuminhan	[鲁花/品牌][花生油/产品]
-845	xuminhan	我要买[鬼火一代天使眼/型号]
-849	xuminhan	长袖厚[体恤/产品]
-850	xuminhan	推荐几款[吹风机/产品]
-847	xuminhan	我想买4片[地砖/产品]，[20cm×100cm/规格]的，但是询问多家都说不卖，能帮我找个愿意卖给我的店铺吗？
-853	xuminhan	我要1段[奶粉/产品]
-846	xuminhan	哪款洗面控油祛痘好用
-854	xuminhan	说话说话你们有没有客服？
-855	xuminhan	[锹/产品]
-856	xuminhan	我想找美容养颜，然后减肥的[茶/产品]
-851	xuminhan	可以其他类型的吗
-858	xuminhan	买[化妆品/产品]什么行就是买[衣服/产品]，不行
-859	xuminhan	有没有去廊坊的火车
-857	xuminhan	有没有好的宝贝可以推荐
-835	xuminhan	[白熊/品牌][啤酒/产品]六瓶
-852	xuminhan	那你帮我催催把，要不然[衣服/产品]回来都夏天了
-860	xuminhan	催情女用
-865	xuminhan	玩具毕业炮
-863	xuminhan	我想买[990/型号][耳线/产品]
-861	xuminhan	[斯拉/品牌][口红/产品]好吗
-864	xuminhan	货车[电瓶/产品]
-866	xuminhan	[Z11/型号]
-868	xuminhan	去伤疤的产品
-862	xuminhan	实木儿童[床/产品]
-870	xuminhan	矮个子[衣服/产品]
-872	xuminhan	买[游戏本/产品]
-867	xuminhan	应该不是敏感肌肤
-874	xuminhan	问你事儿粉色不是红色了
-871	xuminhan	[遥控坦克/产品]
-875	xuminhan	草莓[发卡/产品]
-878	xuminhan	运动[鞋子/产品]
-873	xuminhan	浅色系
-876	xuminhan	[vivo/品牌][x5max/型号]这个型号的[手机壳/产品]
-877	xuminhan	[苹果/品牌][笔记本/产品]
-880	xuminhan	地面积模
-883	xuminhan	我买[水果/产品]
-879	xuminhan	我要买[越野车/产品]
-881	xuminhan	情侣[衬衫/产品]
-882	xuminhan	我要买女生穿的[单鞋/产品]
-885	xuminhan	男女都能穿的[外套/产品]，好看的
-869	xuminhan	有没有能放下驾驶证的短款[钱包/产品]
-887	xuminhan	[洁面乳/产品]
-886	xuminhan	女学生[板鞋/产品]
-890	xuminhan	好用的国货[护肤品/产品]
-889	xuminhan	给我推荐几中简历最实用的[耳机/产品]子
-888	xuminhan	复古磨砂大框防辐射[眼镜/产品]
-884	xuminhan	淘宝到底有没有人工客服？
-893	xuminhan	手工制作[相册/产品]
-894	xuminhan	有没有店家推荐，卖[裹胸/产品]的，我想买白色的厚的，不会透的那种
-896	xuminhan	破洞牛仔[牛仔裤/产品]
-897	xuminhan	白色[外套/产品]配什么颜色
-899	xuminhan	我要买拉花
-892	xuminhan	适合胖子穿的[裙子/产品]
-900	xuminhan	[剃须刀/产品][电路板/产品]
-902	xuminhan	美国产的[性保健品/产品][万艾可/产品]
-895	xuminhan	女中学生短款[棉服/产品]薄
-903	xuminhan	九个月宝宝[奶粉/产品]
-891	xuminhan	德国制造的新发明
-906	xuminhan	信号强
-905	xuminhan	汽车[摆件/产品]
-898	xuminhan	[斜挎包/产品]男
-909	xuminhan	气船
-901	xuminhan	[移动/品牌]
-911	xuminhan	[泡酒/产品]
-908	xuminhan	春款[衣服/产品]女
-907	xuminhan	我想找儿童[自行车/产品]
-904	xuminhan	[oppo/品牌][r9/型号]个性[手机壳/产品]
-913	xuminhan	山区风大，宝宝大红脸蛋，还干干的，用什么[润肤霜/产品]，求推荐
-914	xuminhan	春秋 [上衣/产品] [打底衫/产品] [T恤衫/产品]
-917	xuminhan	我要找购物车
-915	xuminhan	去斑
-910	xuminhan	我要买[OPPO/品牌][A57/型号]的[手机壳/产品]个性简洁
-919	xuminhan	我想买[诺和笔/产品][5/型号]的[针头/产品]
-920	xuminhan	[碧罗春/产品]
-921	xuminhan	[五菱宏光S/产品][七座/规格]
-922	xuminhan	白色[套头衫/产品]
-916	xuminhan	[苹果/品牌][充电器/产品]
-912	xuminhan	软底内增好的白[鞋/产品]
-926	xuminhan	我要买豆沙色[口红/产品]
-924	xuminhan	[8g/规格]的
-923	xuminhan	我想泡水
-928	xuminhan	还是夜光[鞋/产品]呀三十八码的
-918	xuminhan	是买的[花/产品]颜色不对
-929	xuminhan	数字电视[天线/产品]
-930	xuminhan	卡在哪里买
-933	xuminhan	奔溃了
-927	xuminhan	还给我推荐[ddr3/规格]?
-934	xuminhan	[高跟鞋/产品]
-936	xuminhan	[香水/产品]女
-931	xuminhan	原味
-937	xuminhan	[梅干/产品]
-925	xuminhan	英伦学生[鞋/产品]
-940	xuminhan	我想买个[飞行器/产品]
-941	xuminhan	[陈皮糖/产品]
-932	xuminhan	[430ml/规格]
-939	xuminhan	洋气点的[牛仔裤/产品]
-944	xuminhan	[坚果/产品]混合
-943	xuminhan	要[哺乳衣/产品]
-946	xuminhan	[茅台/品牌]镇8年酱香型飞天[酒/产品]
-945	xuminhan	[手包/产品]
-942	xuminhan	这个[钱包/产品]送什么东西不
-938	xuminhan	胖MM[上衣/产品]
-948	xuminhan	我要买[口红/产品]，豆沙色 ，雾面，大牌子
-947	xuminhan	[鼠粮/产品]
-935	xuminhan	厚底的女[凉鞋/产品]，外穿
-951	xuminhan	[手链/产品]纯[银/材料]配件
-952	xuminhan	我要买隔离 [气垫/产品]
-949	xuminhan	[童装/产品]时尚点的
-953	xuminhan	收毛孔套装
-954	xuminhan	绿色[卫衣/产品]配什么[外套/产品]好看啊
-950	xuminhan	淡香
-958	xuminhan	[翡翠/材料]玫瑰花
-955	xuminhan	u型简欧[沙发/产品]
-956	xuminhan	我要找情趣[内衣/产品]，性感一点的呦
-962	xuminhan	简单，好看的[贴纸/产品]
-960	xuminhan	小个的[糖盒/产品]
-963	xuminhan	帮我推荐一些情侣[T恤/产品]
-964	xuminhan	[手表/产品]式听歌用的
-965	xuminhan	购推荐个女款半截袖的连接，我看看
-959	xuminhan	搭配绿色[连衣裙/产品]裤的[鞋子/产品]
-957	xuminhan	性价比高的[电脑/产品]
-969	xuminhan	蝙蝠潮流牛仔[外套/产品]，女破洞
-970	xuminhan	正品[凤凰/品牌][自行车/产品]
-967	xuminhan	我想看看我以前的订单
-968	xuminhan	雪宝毛绒毕业[玩具/产品]
-961	xuminhan	甜[水果/产品]
-966	xuminhan	我要买围棋入门[书籍/产品]
-971	xuminhan	500元以下，双卡
-974	xuminhan	我要买[头灯/产品]
-972	xuminhan	我想买[纸尿裤/产品]可么都没大小码可挑呢
-977	xuminhan	白色尖头细跟[高跟鞋/产品]
-973	xuminhan	帮我推荐婴儿毛线[帽子/产品]
-975	xuminhan	[电脑/产品][配件/产品]
-976	xuminhan	[凉鞋/产品]中高细跟
-978	xuminhan	相思
-980	xuminhan	[耳钉/产品][收纳架/产品]
-981	xuminhan	我要买 [oppo/品牌] [a57/型号][钢化膜/产品]
-979	xuminhan	祛红血丝
-986	xuminhan	[长城/品牌]
-985	xuminhan	吸引女人的男士[香水/产品]
-983	xuminhan	有妹子吗
-989	xuminhan	我要买懒蛋蛋
-982	xuminhan	半球
-991	xuminhan	我要买[烘干架/产品]
-987	xuminhan	超你妈
-984	xuminhan	便宜点的。
-992	xuminhan	睡吧
-994	xuminhan	[holleKeith/品牌][贴纸/产品]
-995	xuminhan	绿色的
-997	xuminhan	买[裤子/产品]不知道自己是多大的腰围
-996	xuminhan	[防热垫/产品]
-990	xuminhan	我要买剧片无法登录
-993	xuminhan	就我想买那个[表/产品] 下面就有
-988	xuminhan	青年[男装/产品]
-998	xuminhan	[护肤水/产品]单件
-913	fuhaiming	山区风大，宝宝大红脸蛋，还干干的，用什么[润肤霜/产品]，求推荐
-915	fuhaiming	去斑
-916	fuhaiming	[苹果/品牌][充电器/产品]
-918	fuhaiming	是买的[花/产品]颜色不对
-919	fuhaiming	我想买[诺和笔/产品][5/型号]的[针头/产品]
-920	fuhaiming	[碧罗春/产品]
-912	fuhaiming	软底内增好的白[鞋/产品]
-923	fuhaiming	我想泡水
-924	fuhaiming	[8g/规格]的
-917	fuhaiming	我要找[购物车/产品]
-927	fuhaiming	还给我推荐[ddr3/型号]?
-926	fuhaiming	我要买豆沙色[口红/产品]
-922	fuhaiming	白色[套头衫/产品]
-930	fuhaiming	[卡/产品]在哪里买
-929	fuhaiming	数字电视[天线/产品]
-932	fuhaiming	[430ml/规格]
-925	fuhaiming	英伦[学生鞋/产品]
-933	fuhaiming	奔溃了
-934	fuhaiming	[高跟鞋/产品]
-935	fuhaiming	厚底的女[凉鞋/产品]，外穿
-937	fuhaiming	[梅干/产品]
-931	fuhaiming	原味
-939	fuhaiming	洋气点的[牛仔裤/产品]
-936	fuhaiming	[香水/产品]女
-938	fuhaiming	[胖MM/品牌][上衣/产品]
-928	fuhaiming	还是[夜光鞋/产品]呀[三十八码/规格]的
-943	fuhaiming	要[哺乳衣/产品]
-941	fuhaiming	[陈皮糖/产品]
-921	fuhaiming	[五菱/品牌][宏光S/型号][七座/规格]
-940	fuhaiming	我想买个[飞行器/产品]
-946	fuhaiming	[茅台镇/产品]8年酱香型[飞天酒/产品]
-945	fuhaiming	[手包/产品]
-942	fuhaiming	这个[钱包/产品]送什么东西不
-947	fuhaiming	[鼠粮/产品]
-948	fuhaiming	我要买[口红/产品]，豆沙色 ，雾面，大牌子
-951	fuhaiming	[手链/产品][纯银/材料][配件/产品]
-950	fuhaiming	淡香
-953	fuhaiming	收毛孔套装
-952	fuhaiming	我要买隔离 [气垫/产品]
-955	fuhaiming	u型简欧[沙发/产品]
-956	fuhaiming	我要找[情趣内衣/产品]，性感一点的呦
-949	fuhaiming	[童装/产品]时尚点的
-959	fuhaiming	搭配绿色[连衣裙/产品][裤/产品]的[鞋子/产品]
-957	fuhaiming	性价比高的[电脑/产品]
-944	fuhaiming	[坚果/产品]混合
-589	TaoJiachun	小[金橘/产品]
-960	TaoJiachun	小个的[糖盒/产品]
-961	TaoJiachun	甜水果
-965	TaoJiachun	购推荐个女款半截袖的连接，我看看
-963	TaoJiachun	帮我推荐一些[情侣T恤/产品]
-954	TaoJiachun	绿色[卫衣/产品]配什么外套好看啊
-962	TaoJiachun	简单，好看的[贴纸/产品]
-967	TaoJiachun	我想看看我以前的订单
-968	TaoJiachun	[雪宝/品牌]毛绒毕业[玩具/产品]
-970	TaoJiachun	正品[凤凰/品牌][自行车/产品]
-972	TaoJiachun	我想买[纸尿裤/产品]可么都没大小码可挑呢
-973	TaoJiachun	帮我推荐婴儿[毛线帽子/产品]
-971	TaoJiachun	500元以下，[双卡/规格]
-969	TaoJiachun	蝙蝠潮流[牛仔外套/产品]，女破洞
-975	TaoJiachun	[电脑配件/产品]
-966	TaoJiachun	我要买围棋入门[书籍/产品]
-977	TaoJiachun	白色尖头细跟[高跟鞋/产品]
-978	TaoJiachun	相思
-979	TaoJiachun	祛红血丝
-974	TaoJiachun	我要买[头灯/产品]
-982	TaoJiachun	半球
-964	TaoJiachun	[手表/产品]式听歌用的
-983	TaoJiachun	有妹子吗
-976	TaoJiachun	[凉鞋/产品]中高细跟
-985	TaoJiachun	吸引女人的[男士香水/产品]
-986	TaoJiachun	长城
-987	TaoJiachun	超你妈
-981	TaoJiachun	我要买 [oppo/品牌] [a57/型号][钢化膜/产品]
-958	fuhaiming	[翡翠玫瑰花/产品]
-980	fuhaiming	[耳钉收纳架/产品]
-992	fuhaiming	睡吧
-993	fuhaiming	就我想买那个[表/产品] 下面就有
-991	fuhaiming	我要买[烘干架/产品]
-988	fuhaiming	青年[男装/产品]
-990	fuhaiming	我要买[剧片/产品]无法登录
-996	fuhaiming	[防热垫/产品]
-994	fuhaiming	[holleKeith/品牌][贴纸/产品]
-999	fuhaiming	美甲封层
-997	fuhaiming	买[裤子/产品]不知道自己是多大的腰围
-998	fuhaiming	[护肤水/产品][单件/规格]
-1002	fuhaiming	一百五十元的[手机/产品]有哪些
-995	fuhaiming	绿色的
-984	fuhaiming	便宜点的。
-1000	fuhaiming	女[上衣/产品]
-1005	fuhaiming	[运动鞋/产品]女
-1006	fuhaiming	[存钱罐/产品]
-1001	fuhaiming	[收腹带/产品]
-1008	fuhaiming	北[包包/产品]
-1004	fuhaiming	锂电电动农用[喷雾器/产品]
-1010	fuhaiming	蓝牙[耳机/产品]上的副[耳机/产品]上没有[耳帽/产品]。
-1011	fuhaiming	[衣柜收纳箱/产品]
-1003	fuhaiming	[360/品牌][N5/型号][手机/产品]1399元可以买到吗？
-1012	fuhaiming	福利社小蜜
-1007	fuhaiming	我要买春季的女士，续了平底儿[鞋/产品]
-1013	fuhaiming	我还想买我买过的[水壶/产品]
-1009	fuhaiming	[美容床/产品]
-1003	xuminhan	[360/品牌][N5/型号][手机/产品]1399元可以买到吗？
-1000	xuminhan	女[上衣/产品]
-1002	xuminhan	一百五十元的[手机/产品]有哪些
-1005	xuminhan	[运动鞋/产品]女
-1007	xuminhan	我要买春季的女士，续了平底儿[鞋/产品]
-1008	xuminhan	北[包包/产品]
-1004	xuminhan	锂电电动农用[喷雾器/产品]
-1009	xuminhan	[美容床/产品]
-1010	xuminhan	蓝牙[耳机/产品]上的副[耳机/产品]上没有[耳帽/产品]。
-1012	xuminhan	福利社小蜜
-1006	xuminhan	[存钱罐/产品]
-999	xuminhan	[美甲封层/产品]
-1013	xuminhan	我还想买我买过的[水壶/产品]
-1016	xuminhan	求推荐[1T/规格][硬盘/产品]
-1001	xuminhan	[收腹带/产品]
-1015	xuminhan	您好，我想买[右佐匹克隆片/产品]，有卖的吗？
-1011	xuminhan	[衣柜/产品][收纳箱/产品]
-1014	xuminhan	夏季学生[长裙/产品]
-1021	xuminhan	帮我找一下幼儿爵士舞[拐杖/产品]哪个好
-1019	xuminhan	辣妈[姜糖膏/产品]
-1022	xuminhan	儿童[自行车/产品]
-1018	xuminhan	办公室养[水培植物/产品]好还是[土培植物/产品]好?
-1017	xuminhan	胖人显瘦的[衣服/产品]
-1026	xuminhan	可以坐的[学步车/产品]
-1023	xuminhan	可爱一点的
-1027	xuminhan	可以装下高中书本的[书包/产品]
-1028	xuminhan	绿豆[面膜/产品]
-1025	xuminhan	我要买触屏生命树[手表/产品]
-1024	xuminhan	想买[耳机/产品]子
-1031	xuminhan	控油的呢
-1020	xuminhan	要几百元的，能拿上楼梯
-1034	xuminhan	女孩儿的，单肩[背包/产品]
-1033	xuminhan	孕妇服装搭配
-1032	xuminhan	[化妆刷/产品]
-1035	xuminhan	浅蓝色[牛仔裤/产品]配什么样的[上衣/产品]好看
-1036	xuminhan	[裙撑/产品]
-1039	xuminhan	帮买个好用的[剪刀车/产品]
-1030	xuminhan	全部在[驱风油/产品]，我要买
-1029	xuminhan	电三轮[车棚/产品]
-1038	xuminhan	[美甲工具/产品]套装
-1043	xuminhan	鞋[鞋子/产品]怎么没卖的？
-1040	xuminhan	[蜜蜡/产品]
-1045	xuminhan	我从网上买个[手机/产品]
-1042	xuminhan	毛呢[外衣/产品]
-1044	xuminhan	男士[九分裤/产品]
-1041	xuminhan	为什么[文胸/产品]和[护肤品/产品]合并超过499 只能使用20元购物券
-1048	xuminhan	请问闭口用什么[药膏/产品]好
-1050	xuminhan	1000~3000
-1037	xuminhan	[锐龙/品牌]
-1051	xuminhan	我要活的
-1046	xuminhan	想买[口红/产品]不知道买什么颜色
-1054	xuminhan	[芝士/产品]
-1052	xuminhan	买这样的[玻璃/材料][后门/产品][玻璃/材料]
-1056	xuminhan	超薄[胸罩/产品]
-1053	xuminhan	我说的意思是，我买个的东西都是还是显示在[手机/产品]上面。
-1058	xuminhan	[小米/品牌][4S/型号]
-1055	xuminhan	胖MM[裤子/产品]
-1057	xuminhan	我要吃[坚果/产品]
-1049	xuminhan	买[衣服/产品]没有钱可不可以抵账
-1061	xuminhan	[手提包/产品][斜挎包/产品]
-1063	xuminhan	聚拢型[内衣/产品]
-1064	xuminhan	小蜜，问你个事
-1060	xuminhan	我想买东西，提示买家账号错误
-1066	xuminhan	要保守的
-1047	xuminhan	找好货，[伪装网/产品]
-1067	xuminhan	[魅蓝m2/型号][手机壳/产品]
-1065	xuminhan	双色[口红/产品]
-1059	xuminhan	我要买[挂画/产品]
-1062	xuminhan	[紧身衣/产品]
-1070	xuminhan	以后不要给我推荐韩货，任何韩国都不要
-1069	xuminhan	嬰兒[內衣/产品]
-1074	xuminhan	女士[休闲鞋/产品]
-1072	xuminhan	破洞[牛仔裤/产品][上衣/产品]搭配什么
-1076	xuminhan	[苹果/品牌][5s/型号]卡托和[苹果/品牌][7p/型号]卡托一样吗
-1068	xuminhan	我要买男童春季[运动鞋/产品]
-1071	xuminhan	想要刚过屁股长度的[春装/产品][外套/产品]，价格70元内
-1073	xuminhan	您好，天猫超市有没有客服啊
-1077	xuminhan	我要买婴儿潮款[衣服/产品]
-1081	xuminhan	[老板椅/产品]
-1078	xuminhan	不是，我要买[扣子/产品]
-1079	xuminhan	紧身[T恤衫/产品]男
-1083	xuminhan	包的分隔袋
-1075	xuminhan	[母女装/产品] 夏款
-1085	xuminhan	[衣服/产品]夏天的
-1084	xuminhan	有没有初中生穿的[吊带裙/产品]
-1086	xuminhan	[史酷比/品牌][纸尿裤/产品]
-1089	xuminhan	电瓶[自行车/产品]
-1088	xuminhan	有没有什么[辣条/产品]好吃的
-1090	xuminhan	[君乐宝/品牌][至臻/型号]
-1080	xuminhan	牛仔[外套/产品]，宽松版
-1087	xuminhan	[护肤套装/产品]补水
-1082	xuminhan	想买件[牧王/品牌][羊绒/材料][大衣/产品]修身款，朋友有一件很漂亮。上身显气质，帅气。就是找不到。请问我怎样才能买到。
-1092	xuminhan	男朋友礼物
-1093	xuminhan	男用[香水/产品]
-1097	xuminhan	不倒绒[连体衣/产品]
-1096	xuminhan	24岁身高176体重170想买[衣服/产品]
-1098	xuminhan	我要买夏季韩版[上衣/产品][女装/产品]
-1094	xuminhan	雪花秀
-1100	xuminhan	汽车[硅胶管/产品]
-1099	xuminhan	婴儿[学步车/产品]
-1095	xuminhan	推荐一款性价比高，不易脱妆的[气垫/产品]
-1091	xuminhan	另外还有吗？
-1018	fuhaiming	办公室养[水培植物/产品]好还是[土培植物/产品]好?
-1016	fuhaiming	求推荐[1T/规格][硬盘/产品]
-1017	fuhaiming	胖人显瘦的[衣服/产品]
-1015	fuhaiming	您好，我想买[右佐匹克隆片/产品]，有卖的吗？
-1022	fuhaiming	[儿童自行车/产品]
-1019	fuhaiming	辣妈[姜糖膏/产品]
-1024	fuhaiming	想买[耳机/产品]子
-1021	fuhaiming	帮我找一下幼儿[爵士舞拐杖/产品]哪个好
-1020	fuhaiming	要几百元的，能拿上楼梯
-1027	fuhaiming	可以装下高中书本的[书包/产品]
-1023	fuhaiming	可爱一点的
-1028	fuhaiming	[绿豆/材料][面膜/产品]
-1030	fuhaiming	全部在[驱风油/产品]，我要买
-1026	fuhaiming	可以坐的[学步车/产品]
-1014	fuhaiming	夏季学生[长裙/产品]
-1032	fuhaiming	[化妆刷/产品]
-1029	fuhaiming	[电三轮车棚/产品]
-1035	fuhaiming	浅蓝色[牛仔裤/产品]配什么样的[上衣/产品]好看
-1036	fuhaiming	[裙撑/产品]
-1033	fuhaiming	[孕妇服装/产品]搭配
-1038	fuhaiming	美甲工具[套装/产品]
-1037	fuhaiming	[锐龙/品牌]
-1025	fuhaiming	我要买触屏生命树[手表/产品]
-1040	fuhaiming	[蜜蜡/产品]
-1041	fuhaiming	为什么[文胸/产品]和[护肤品/产品]合并超过499 只能使用20元购物券
-1034	fuhaiming	女孩儿的，[单肩背包/产品]
-1042	fuhaiming	毛呢[外衣/产品]
-1044	fuhaiming	男士[九分裤/产品]
-1045	fuhaiming	我从网上买个[手机/产品]
-1046	fuhaiming	想买[口红/产品]不知道买什么颜色
-1043	fuhaiming	鞋[鞋子/产品]怎么没卖的？
-1047	fuhaiming	找好货，伪装网
-1031	fuhaiming	控油的呢
-1050	fuhaiming	1000~3000
-1052	fuhaiming	买这样的[玻璃/材料][后门/产品][玻璃/材料]
-1049	fuhaiming	买[衣服/产品]没有钱可不可以抵账
-1053	fuhaiming	我说的意思是，我买个的东西都是还是显示在手机上面。
-1039	fuhaiming	帮买个好用的[剪刀车/产品]
-1054	fuhaiming	[芝士/产品]
-1048	fuhaiming	请问闭口用什么[药膏/产品]好
-1057	fuhaiming	我要吃[坚果/产品]
-1056	fuhaiming	超薄[胸罩/产品]
-1059	fuhaiming	我要买[挂画/产品]
-1051	fuhaiming	我要活的
-1062	fuhaiming	[紧身衣/产品]
-1061	fuhaiming	[手提包/产品][斜挎包/产品]
-1058	fuhaiming	[小米/品牌][4S/型号]
-1064	fuhaiming	小蜜，问你个事
-1060	fuhaiming	我想买东西，提示买家账号错误
-1067	fuhaiming	[魅蓝/品牌][m2/型号][手机壳/产品]
-1063	fuhaiming	聚拢型[内衣/产品]
-1055	fuhaiming	胖MM[裤子/产品]
-1066	fuhaiming	要保守的
-1068	fuhaiming	我要买男童春季[运动鞋/产品]
-1070	fuhaiming	以后不要给我推荐韩货，任何韩国都不要
-1072	fuhaiming	破洞[牛仔裤/产品][上衣/产品]搭配什么
-1073	fuhaiming	您好，天猫超市有没有客服啊
-1065	fuhaiming	双色[口红/产品]
-1069	fuhaiming	[嬰兒內衣/产品]
-1071	fuhaiming	想要刚过屁股长度的春装[外套/产品]，价格70元内
-1076	fuhaiming	[苹果/品牌][5s/型号][卡托/产品]和[苹果/品牌][7p/型号][卡托/产品]一样吗
-1079	fuhaiming	紧身[T恤衫/产品]男
-1075	fuhaiming	[母女装/产品] 夏款
-1077	fuhaiming	我要买婴儿潮款[衣服/产品]
-1080	fuhaiming	牛仔[外套/产品]，宽松版
-1074	fuhaiming	女士[休闲鞋/产品]
-1082	fuhaiming	想买件牧王羊绒[大衣/产品]修身款，朋友有一件很漂亮。上身显气质，帅气。就是找不到。请问我怎样才能买到。
-1084	fuhaiming	有没有初中生穿的[吊带裙/产品]
-1086	fuhaiming	[史酷比/品牌][纸尿裤/产品]
-1081	fuhaiming	[老板椅/产品]
-1088	fuhaiming	有没有什么[辣条/产品]好吃的
-1078	fuhaiming	不是，我要买[扣子/产品]
-1087	fuhaiming	[护肤套装/产品]补水
-1090	fuhaiming	[君乐宝/品牌][至臻/型号]
-1083	fuhaiming	包的[分隔袋/产品]
-1085	fuhaiming	[衣服/产品]夏天的
-1089	fuhaiming	[电瓶自行车/产品]
-1094	fuhaiming	[雪花秀/品牌]
-1093	fuhaiming	男用[香水/产品]
-1092	fuhaiming	男朋友礼物
-1095	fuhaiming	推荐一款性价比高，不易脱妆的[气垫/产品]
-1097	fuhaiming	不倒绒[连体衣/产品]
-1096	fuhaiming	24岁身高176体重170想买[衣服/产品]
-1091	fuhaiming	另外还有吗？
-1100	fuhaiming	[汽车硅胶管/产品]
-1099	fuhaiming	[婴儿学步车/产品]
-1098	fuhaiming	我要买夏季韩版[上衣/产品][女装/产品]
-981	TaoJiachun	我要买 [oppo/品牌] [a57/型号][钢化膜/产品]
+1
+2	[门垫/产品][脚垫/产品]多少钱
+3	我要买[澳雪/品牌]
+4	我要买拔丝肉松蛋糕
+5	[电磁炉/产品]多少钱
+6	买[躺椅/产品]
+7	[调味酱/产品]多少钱
+8	[丘比/品牌][沙拉酱/产品]多少钱
+9	我要买米奇
+10	我想知道现在[迪奥/品牌]的[口红/产品]价格是多少，你能告诉我吗
+11	[手机/产品][mate9/型号]
+12	我要买贵州[干辣椒/产品]
+13	我要买[芬达/产品]罐装
+14	我要买[榛子/产品][坚果/产品]
+15	[理肤泉/品牌][喷雾/产品]多少钱
+16	[拖把桶/产品]多少钱
+17	[喵先生/品牌]多少钱
+18	我要买[潘婷/品牌][护发素/产品]乳液修护[750ml/规格]
+19	[巧媳妇/品牌][酱油/产品]多少钱
+20	我要买[辣豆腐/产品]
+21	我要买[避孕套/产品] 颗粒
+22	[呀土豆/产品][40g/规格]多少钱
+23	[茂德公/品牌]多少钱
+24	[雕牌/品牌]全渍净[洗衣液/产品]多少钱
+25	[白米醋/产品]多少钱
+26	[加湿器/产品]家用多少钱
+27	我要买[多芬/品牌]沐浴
+28	我要买[加菲猫/品牌][护肤品/产品]
+29	我要买[恒大/品牌][冰泉/产品][500ml/规格]
+30	我要买[长鼻王/品牌]
+31	[烤鸡翅/产品]多少钱
+32	我要买[良平铺子/品牌]
+33	[海尔/品牌][电视/产品]多少钱
+34	[枪手/品牌][无烟蚊香/产品]多少钱
+35	[麦德龙/品牌][牛奶/产品]多少钱
+36	我要买[枪手/品牌][杀虫气雾剂/产品]
+37	我要买[辣椒油/产品] [瓶/规格]
+38	[猪大排/产品]多少钱
+39	[锅刷/产品]多少钱
+40	[丝塔芙/品牌]
+41	麻辣香锅[干锅底料/产品]多少钱
+42	我要买[海澡面膜/产品]
+43	我要买[透明皂/产品]
+44	是[手机/产品]
+45	我要买[大排/产品]
+46	[唯新/品牌]多少钱
+47	[哺乳衣/产品]
+48	[麦克风/产品]
+49	[番茄酱/产品] [亨氏/品牌]多少钱
+50	我要买儿童[保温杯/产品]
+51	我要买可挂式[除湿袋/产品]
+52	我要买[眼霜/产品]女
+53	[糙米/产品]多少钱
+54	学步多少钱
+55	[高光笔/产品]
+56	我要买[阿迪达斯/品牌][套装/产品]
+57	我要买[蒟蒻/产品]
+58	我要买[伊威/品牌]全机能[肝粉/产品]
+59	深层清洁
+60	[全脂奶粉/产品]
+61	我要买[法兰琳卡/品牌][面膜/产品]
+62	[山核桃仁/产品]小包装多少钱
+63	[男士鞋/产品]多少钱
+64	[沙宣/品牌]多少钱
+65	[丝毛/产品]多少钱
+66	我要买[手机壳/产品][vivo/品牌]
+67	我要买[拖把/产品][海绵替换头/产品]
+68	我要买[安慕希/品牌][酸奶/产品]香草味
+69	我要买[美德乐/品牌][哺乳文胸/产品]
+70	我要买[休闲鞋/产品] 男
+71	[面食/产品]类多少钱
+72	我要买[隔离霜/产品][妆前乳/产品]
+73	我要买[兔肉/产品]
+74	好
+75	我要买[被罩/产品] [单件/规格]
+76	我要买[驴肉/产品]
+77	[洗车机/产品]
+78	[晒架/产品]多少钱
+79	我要买马来西亚[果冻/产品]
+80	[欧莱雅/品牌]女士多少钱
+81	[私处护理/产品]多少钱
+82	[魅族/品牌]吧
+83	我要买[一叶子/品牌]
+84	[养生堂/品牌]牌天然[维生素e/材料][软胶囊/产品]多少钱
+85	我要买[鸿毛/品牌][药酒/产品]
+86	儿童 [杯/产品]多少钱
+87	[刀削面/产品][方便面/产品]多少钱
+88	[油纸/产品] 烘焙多少钱
+89	我要买儿童[滑板车/产品]
+90	我要买[t恤/产品] 男 短袖 夏季
+91	我要买[筷子/产品] [勺子/产品]
+92	[麦馨/品牌][咖啡/产品]多少钱
+93	[腊肉/产品] 湖南 特产 湘西多少钱
+94	[格力/品牌][变频空调/产品]多少钱
+95	我要买[美素/品牌]
+96	[好孩子/品牌][奶嘴/产品]多少钱
+97	[无乳糖奶粉/产品]多少钱
+98	[船袜/产品]男多少钱
+99	[艾诗/品牌]多少钱
+100	[脆面/产品]多少钱
+101	我要买[雄鸡标/品牌]
+102	现在什么[手机/产品]好?
+103	我要买[胡豆/产品]
+104	我要买[洗衣皂粉/产品]
+105	我要买[牛奶杯/产品] 透明
+106	老子要[手机/产品]
+107	我要买[不锈钢/材料][饭盒/产品]
+108	定制
+109	我要买[洗衣液/产品] [蓝月亮/品牌]茉莉清香
+110	[牛奶/产品]
+111	[梅菜笋丝/产品]多少钱
+112	我要买[可爱多/品牌][冰淇淋/产品]
+113	[垃圾袋/产品]手提多少钱
+114	[小肥羊/品牌]多少钱
+115	[花王/品牌][卫生巾/产品][乐而雅/产品]多少钱
+116	我要买婴儿理发
+117	我要买海苔[薄脆饼干/产品]
+118	我要买[老鸭汤/产品]
+119	外置，[手机/产品]
+120	火箭[苹果/产品]多少钱
+121	我要买[短袜/产品]
+122	[老干妈/品牌][风味豆豉/产品]多少钱
+123	[牙签盒/产品]多少钱
+124	[上海老酒/产品]多少钱
+125	[骁龙/品牌][820/型号]
+126	[cheese/产品]多少钱
+127	[梅菜/产品]
+128	[川南/品牌][爽口下饭菜/产品]多少钱
+129	[盒装/规格][抽纸/产品]多少钱
+130	[万艾可/品牌]多少钱
+131	[水果牙签/产品]多少钱
+132	[绿豆饼/产品]多少钱
+133	我要买[牙膏/产品][牙刷/产品][套装/产品]
+134	我要买牛奶味大[饼干/产品]
+135	柔顺多少钱
+136	我要买[笔记本/产品]
+137	[吉他/产品]多少钱
+138	我要买[饭兜/产品]
+139	我要买[办公室/产品]
+140	新疆[红枣/产品]多少钱
+141	我要买小[风扇/产品]办公室
+142	我要买[调味汁/产品]
+143	我要买[妮维雅/品牌][走珠/产品]
+144	烤多少钱
+145	我想要买[香水/产品]
+146	[奶粉罐/产品]便携多少钱
+147	我要买[密码箱/产品]
+148	[学生奶粉/产品]多少钱
+149	[鸡排肉/产品] 生多少钱
+150	我要买[吸管/产品]
+151	[汉服/产品]
+152	我要买[早餐谷物/产品]
+153	[外婆菜/产品]多少钱
+154	我要买[蓝月亮/品牌][漂白水/产品]
+155	[气泡矿泉水/产品]多少钱
+156	[too cool for school/品牌]多少钱
+157	[沙士/产品]多少钱
+158	[纯棉/材料][内裤/产品]多少钱
+159	我要买[牙粉/产品]
+160	[发夹/产品]多少钱
+161	我要买[洗衣液/产品] 宝宝
+162	我要买[润膏/品牌][洗发水/产品]
+163	我要买[保温碗/产品]
+164	[磨牙饼干/产品]6个月多少钱
+165	原味[核桃/产品]多少钱
+166	[好奇/品牌][棉柔巾/产品]多少钱
+167	[笔记本散热器/产品]
+168	[月如意/品牌]多少钱
+169	[乳酸菌/产品][养乐多/品牌]多少钱
+170	我要买[新安怡/品牌][安抚奶嘴/产品]
+171	我要买[东古/品牌]
+172	[植物医生/品牌]多少钱
+173	我要买[果园老农/品牌]
+174	[木糖醇/产品]多少钱
+175	[清风/品牌] [卷纸/产品]多少钱
+176	我要买[今之逸品/品牌]
+177	[香水/产品] 女士多少钱
+178	[西梅干/产品]多少钱
+179	我要买[套套/产品] 情趣 男用 [安全套/产品]
+180	[驱蚊扣/产品]多少钱
+181	我要买[人参/产品]
+182	我要买[爆趣珠/产品]
+183	[上好佳/品牌]多少钱
+184	[夹心曲奇/产品]多少钱
+185	[泡面锅/产品]多少钱
+186	[无碘盐/产品]多少钱
+187	[削皮刀/产品]多少钱
+188	[肤乐维肤霜/产品]多少钱
+189	[伴面/产品]多少钱
+190	我要买[镜/产品]
+191	[乐百氏/品牌]多少钱
+192	[初旭/品牌]多少钱
+193	[培朗/品牌]多少钱
+194	我要买[包包/产品] [女包/产品]
+195	[t恤/产品]女多少钱
+196	满188减100多少钱
+197	我要买满99减50[零食/产品]
+198	[脆骨烤肠/产品]多少钱
+199	[金领冠/品牌][3段/规格]多少钱
+200	我要买[爽身粉/产品]宝宝[痱子粉/产品]
+201	[光明/品牌][如实/型号][酸奶/产品]多少钱
+202	我要买[果干/产品]类
+203	我要买[饭爷/品牌]
+204	[油条/产品]多少钱
+205	[中华/品牌][健齿白/型号]清新薄荷味[牙膏/产品]多少钱
+206	我要买女[鞋拖/产品]
+207	我要买[液晶电视机/产品]
+208	我要买[猪鼻贴/产品]
+209	我要买[洗衣液/产品]旅行
+210	我要买[护臀膏/产品] [贝亲/品牌]
+211	我要买头发定型
+212	西餐[刀叉/产品]多少钱
+213	[罗马仕/品牌]
+214	[肥皂/产品]内衣专用多少钱
+215	洗[内衣/产品]多少钱
+216	[玉米粉/产品] [袋/规格]多少钱
+217	我要买[猴头菇/材料][饼干/产品]
+218	修身的[裙子/产品]
+219	[贝亲/品牌]的怎么样
+220	[洗面奶/产品]旅行装多少钱
+221	天多少钱
+222	[插座转换器/产品]多少钱
+223	[舒适达/品牌]美白配方抗敏感[牙膏/产品]多少钱
+224	[酸乳/产品]多少钱
+225	[炸酱/产品]多少钱
+226	我要买[利达/品牌]
+227	我要买进口[香皂/产品]
+228	我要买[特步/品牌]
+229	[爱茉莉/品牌]护发多少钱
+230	[雨洁/品牌][洗发水/产品]多少钱
+231	[文胸/产品]
+232	[乐而雅/品牌]多少钱
+233	[万字/品牌][酱油/产品]多少钱
+234	[海鸭蛋/产品]多少钱
+235	买台式机[固态硬盘/产品]
+236	我要买[费列罗/品牌][巧克力/产品]
+237	新西兰[苹果/产品]多少钱
+238	我要买[香水/产品]
+239	我要买[冰红茶/产品] 柠檬味
+240	[牛头牌/品牌]多少钱
+241	[海鲜/材料][零食/产品]多少钱
+242	[oxo/品牌]多少钱
+243	我要买[金莲/产品]
+244	我要买[腊八豆/产品]
+245	煮泡面[锅/产品]多少钱
+246	[益昌/品牌]多少钱
+247	我要买[汉堡饼/产品]
+248	我要买[洗衣粉/产品] [奥妙/品牌]
+249	[婴儿纸巾/产品]多少钱
+250	我要买[鲜羊奶/产品]
+251	[牛奶/产品] [光明/品牌]多少钱
+252	[烟灰缸/产品]家用多少钱
+253	我要买[辣妹子/品牌]
+254	[脱脂牛奶/产品][1l/规格] [12盒/规格] [箱/规格]多少钱
+255	我要买泡[茶壶/产品]
+256	我要买[一次性内裤/产品] 孕妇产妇产后月子用品
+257	[卫生纸/产品][清风/品牌]多少钱
+258	我要买[桂格/品牌][燕麦/材料][饼干/产品]
+259	我要买[真真老老/品牌][粽子/产品]
+260	请问[阿里110/产品]和[钱盾/产品]是一个I什么?
+261	我要买[葡萄干/产品]独立小包装
+262	我要买[毛巾/产品][纱布/产品]
+263	我要买[葡萄柚/产品]
+264	我要买厨房 [纸/产品]
+265	[小米/品牌]和[华为/品牌]
+266	我要买[卫生纸/产品]实心
+267	我要买[米/产品][油/产品]
+268	[魔方/产品]
+269	我要买[boots/品牌]
+270	[乐事/品牌][薯片/产品][70g/规格]多少钱
+271	我要买吕
+272	我要买[鸡蛋面/产品][方便面/产品]
+273	我要买[妙妙/品牌][鱿鱼味卷/产品]
+274	[眼影/产品]
+275	我要买[脱脂牛奶/产品] [1l/规格]
+276	我要买[康师傅/品牌][饮用水/产品]
+277	旅行[套装/产品][洗发水/产品]多少钱
+278	我要买[彩泥/产品]
+279	[微尔/品牌]多少钱
+280	[牙膏/产品]美白多少钱
+281	夏[凉鞋/产品]
+282	我要买[惠氏/品牌][启赋/型号]1段
+283	[旋转拖把头/产品]多少钱
+284	我要买[麦片/产品][金味/品牌]
+285	买[裙子/产品]
+286	[束腹带/产品]多少钱
+287	我要买[香菇干/产品]
+288	[金星/品牌][啤酒/产品]多少钱
+289	[卫龙/品牌][辣条小面筋/产品]多少钱
+290	[电风扇/产品] 落地 遥控多少钱
+291	[豉油/产品]多少钱
+292	[搓脚板/产品]多少钱
+293	我要买[冰淇淋/产品][雪糕/产品]
+294	[哇酥咔/品牌]多少钱
+295	[袜子/产品] 女 [船袜/产品]多少钱
+296	[福临门/品牌][菜籽油/产品]多少钱
+297	我要买学生[学习用品/产品]
+298	半[拖鞋/产品]
+299	[蒸鱼酱油/产品]多少钱
+300	我要买[模具/产品]
+301	我要买[小样/品牌][乳酸菌/产品]
+302	[安利纽崔莱/品牌]多种植物[蛋白粉/产品]多少钱
+303	[学生奶/产品]多少钱
+304	[方便面/产品] [酸豆角/产品]多少钱
+305	[美素佳儿/品牌]多少钱
+306	[茉莉花茶/产品]
+307	[一片爽/品牌][纸尿裤/产品]多少钱
+308	[木头/材料][勺子/产品]多少钱
+309	[闷烧杯/产品]多少钱
+310	我要买[安安金纯/品牌][沐浴露/产品]
+311	买[包包/产品]
+312	我要买[蒙牛/品牌][纯牛奶/产品][24/规格]
+313	[毛毯/产品][盖毯/产品]多少钱
+314	我要买[云吞/产品]
+315	我要买[豆类/产品]
+316	[皇冠/品牌]
+317	我要买[有友/品牌][猪皮/产品]
+318	[挂钩/产品] [吸盘/产品]多少钱
+319	我要买[除湿盒/产品]
+320	我要买[婴儿皂/产品]
+321	我要买[牡蛎/产品]
+322	[沙拉薯条/产品]多少钱
+323	我要买[席子/产品]
+324	[辣翻天/品牌]多少钱
+325	[好奇/品牌][m/规格]多少钱
+326	[海盐/产品]调味多少钱
+327	[美图/品牌]
+328	[盒纸/产品]多少钱
+329	我要买[好奇/品牌][铂金装/型号][nb/规格]
+330	我要买[保鲜袋/产品]小号
+331	我要买[豌豆/产品] [零食/产品]
+332	我要买[伞/产品] 折叠
+333	我要买[茅台/产品][悠蜜/型号]
+334	进口 [薯片/产品]多少钱
+335	我要买[保温桶/产品][304不锈钢/材料]
+336	[医药/产品]多少钱
+337	[孕妇麦片/产品]多少钱
+338	[手撕面包/产品][整箱/规格]多少钱
+339	[水瓶/产品]多少钱
+340	我要买泰国[香米/产品]茉莉[香米/产品] 原装进口[大米/产品]
+341	我要买[卫生巾/产品] [花王/品牌]
+342	我要买北京稻香村特产[糕点/产品]
+343	我要买[牙签/产品]
+344	我要买[黑人/品牌][漱口水/产品]
+345	我要买[丝蕴/品牌][套装/产品]
+346	[凉水/产品]多少钱
+347	我要买[奶锅/产品] [304不锈钢/材料]
+348	我要买[铲/产品]
+349	[生核桃仁/产品]多少钱
+350	美白[牙膏/产品] 去黄多少钱
+351	我要买车载
+352	[花椒面/产品]多少钱
+353	我要买[西王/品牌][油/产品]
+354	我要买[三只松鼠/品牌] [坚果/产品] 大礼包
+355	我要买厨房[调料盒/产品]
+356	我要买[小番茄/产品][圣女果/产品][西红柿/产品]
+357	[衣柜香包/产品]多少钱
+358	预先蓝的[活泉/品牌][面膜/产品]适合学生吗
+359	[疏通剂/产品]多少钱
+360	广东潮汕特产多少钱
+361	要便宜点的
+362	我要买[天猫/品牌][生鲜/产品]
+363	安全多少钱
+364	我要买[三全/品牌][粽子/产品] [蜜枣/材料]
+365	昨天买的[金龙鱼/品牌][大米/产品]送过来了吗
+366	想买[鞋子/产品]
+367	我要买[马桶除臭/产品]
+368	[粉扑气垫/产品]多少钱
+369	[粉碎机/产品]多少钱
+370	我要买[牛腩块/产品]
+371	我要买[joyfish/品牌]
+372	[红曲粉/产品]多少钱
+373	我要买[巴黎水/产品]青柠味[330ml/规格]
+374	我要买[海马/产品]
+375	我要买[宝宝花露水/产品]
+376	[婴儿油/产品]多少钱
+377	[凉拖/产品]
+378	我要买[正广和/品牌]
+379	[电炒锅/产品]多少钱
+380	[凯儿得乐/品牌][纸尿裤/产品]多少钱
+381	[防蚊喷雾/产品] 儿童多少钱
+382	[儿童沐浴露/产品]7 12岁多少钱
+383	请帮我问一下昨天我买的[金龙鱼/品牌][大米/产品]还要多久才能送到呢
+384	[多芬/品牌][喷雾/产品]多少钱
+385	男[内裤/产品][平角裤/产品]冰丝透气多少钱
+386	我要买[下水道除臭剂/产品]
+387	[茶树菇/产品]多少钱
+388	我要买[阿舍食堂/品牌]
+389	[身体乳/产品]女多少钱
+390	[橘子工坊/品牌]多少钱
+391	我要买[浴室防滑垫/产品]
+392	我要买大润发
+393	[博朗/品牌]多少钱
+394	tfboys
+395	我要买[淀粉/产品]
+396	我要买[走珠/产品]
+397	我要买儿童[牙杯/产品]
+398	减肥
+399	我要买[南德/品牌][调味料/产品]
+400	我要买[粉刺针/产品][黑头针/产品]
+401	运动套装多少钱
+402	我要买[辣片/产品] [零食/产品]
+403	我要买[虾子面/产品]
+404	天然[矿泉水/产品]多少钱
+405	[好欢/产品]多少钱
+406	我要买[罐/产品]
+407	我要买[梧州双钱/品牌][龟苓膏/产品]
+408	我要买[披萨/产品][芝士/产品]
+409	头道[酱油/产品]多少钱
+410	我要买[冬虫夏草/产品]
+411	[椰浆/产品]多少钱
+412	[家具/产品]美容
+413	[蒜香花生/产品]多少钱
+414	[格力/品牌][冷风扇/产品]多少钱
+415	我要买[绿伞/品牌][洗衣机/产品]
+416	我要买[冰箱除味/产品]
+417	[蕾丝裙/产品]
+418	我要买[儿童挂面/产品]
+419	我要买吹风
+420	我要买[耐克/品牌]
+421	[水杯/产品][套装/产品] 家用多少钱
+422	[凉席/产品]
+423	[蚊不叮/产品]多少钱
+424	我要买[笼屉/产品]
+425	[酸奶/产品]瓶装多少钱
+426	[纯牛奶/产品] 进口多少钱
+427	我要买[咯吱脆/型号]
+428	我要买[雀巢/品牌][威化巧克力/产品]
+429	我要买[清洁工具/产品]
+430	[半自动洗衣机/产品]多少钱
+431	我要买[酥性饼干/产品]
+432	贵州[茅台/品牌][酒/产品]多少钱
+433	我要买抑汗
+434	买二免一[牙膏/产品]多少钱
+435	我要买[蒙牛/品牌][纯牛奶/产品]袋装
+436	[竹帘/产品]多少钱
+437	我要买[婴幼儿营养品/产品]
+438	[隆力奇/品牌][沐浴露/产品]多少钱
+439	[电脑台式桌/产品]多少钱
+440	[紫苏/产品]多少钱
+441	补钙多少钱
+442	我要买[拉杆箱/产品]女
+443	我要买[广东特产/产品]
+444	我要买[特色小吃/产品]
+445	[乐事/品牌]黄瓜多少钱
+446	[七号/规格][南孚/品牌][电池/产品]多少钱
+447	[毛巾/产品][纯棉/材料] 洗脸儿童多少钱
+448	韩国进口[饮料/产品]多少钱
+449	我要买[奶片/产品] 儿童
+450	[连体裤/产品]
+451	大码
+452	我要买无糖[王老吉/产品]
+453	我要买[卫生巾/产品] 290
+454	网上买[手机/产品]靠谱吗
+455	[凉鞋/产品]女童
+456	[喷壶/产品]浇花多少钱
+457	我要买无糖[苏打饼干/产品]
+458	[卫生巾/产品]超市多少钱
+459	我要买[休闲食品/产品]大组合礼包
+460	我要买[蔬菜/材料][沙拉/产品]即食
+461	[苹果/品牌][手机/产品][6sp/型号]
+462	[丹姿/品牌][沐浴露/产品]多少钱
+463	[诺基亚/品牌]
+464	我要买[雪花糯米糍/产品]
+465	买[抽纸/产品]
+466	[红豆薏米粉/产品]
+467	我要买[笋干/产品]即食
+468	[波士顿龙虾/产品]多少钱
+469	[蜂花/品牌][护发素/产品]多少钱
+470	我要买[怡口莲/品牌][太妃糖/产品]
+471	[染发剂/产品] [欧莱雅/品牌]多少钱
+472	[大米/产品][5kg/规格] 天猫超市多少钱
+473	要[衣服/产品]
+474	我要买日本[牙刷/产品]
+475	[光明/品牌][优/型号]多少钱
+476	我要买[糯米粉/产品]
+477	[花花公子/品牌]多少钱
+478	我要买[手机支架/产品]
+479	[插头/产品]多少钱
+480	我要买[丽丽贝尔/品牌][化妆棉/产品]
+481	我要买[地板/产品]
+482	[丁香茶/产品]多少钱
+483	[鱼块/产品]多少钱
+484	[红星/品牌]多少钱
+485	[盆子/产品]多少钱
+486	[梅林/品牌][罐头/产品]多少钱
+487	我要买[英氏/品牌][宝宝肉松/产品]辅食 [婴儿肉松/产品][牛肉松/产品]
+488	我要买小[紫薯/产品]
+489	[猕猴桃/产品]多少钱
+490	[台布/产品]多少钱
+491	[葡萄籽/产品]多少钱
+492	我要买[耶汁/产品]
+493	我要买抽取式[卫生纸/产品]
+494	[碗/产品]儿童多少钱
+495	[旺仔/品牌] [牛奶/产品]多少钱
+496	我要买[竹叶青酒/产品]
+497	[奇强/品牌][洗衣粉/产品]多少钱
+498	[爱他美/品牌][奶粉/产品]2+多少钱
+499	我要买[湾仔码头/品牌] [面/产品]
+500	我要买[洗发水/产品]日本
+501	[保温杯/产品]
+502	我要买[强生/品牌][身体乳/产品]
+503	我要买进口[脱脂牛奶/产品]
+504	我要买[蘸酱/产品]
+505	我要买[橙汁/产品]浓缩
+506	[抽纸/产品]婴儿多少钱
+507	我要买[削笔刀/产品]
+508	[绿伞/品牌][洗衣机槽清洁剂/产品]多少钱
+509	我要买[木瓜/产品]
+510	我要买[味千/品牌]
+511	我要买欧
+512	我要买[水果糖/产品] 混合水果味进口
+513	好吃的[零食/产品]多少钱
+514	[水槽/产品]多少钱
+515	[老干爹/品牌]多少钱
+516	车载[纸巾/产品]多少钱
+517	我要买[食品收纳盒/产品]
+518	[护垫/产品][护舒宝/品牌]多少钱
+519	[熏肉/产品]多少钱
+520	儿童补钙补锌补铁多少钱
+521	我要买[电脑桌/产品] 台式 家用
+522	[雪莲果/产品]多少钱
+523	[麦饭石/材料][煎锅/产品]多少钱
+524	我要买东北五常[大米/产品]
+525	我要买[薯片/产品]黄瓜
+526	我要买[灭蚊水/产品]
+527	[蓝泡泡/产品][洁厕宝/产品]多少钱
+528	[干面包片/产品]多少钱
+529	我要买次日达
+530	我要买会员专享
+531	[小样/品牌][乳酸菌/产品]多少钱
+532	[花洒/产品]
+533	[曼可顿/品牌][面包/产品]多少钱
+534	[糯米糕/产品]多少钱
+535	我要买[蜂蜜/产品]纯天然
+536	[洗衣粉/产品] [碧浪/品牌]多少钱
+537	[抽纸/产品]买二免一多少钱
+538	我要买[奶粉罐/产品]
+539	[辣酱/产品] [拌饭酱/产品]多少钱
+540	[功放板/产品]
+541	我要买[天猫/品牌][美妆/产品]
+542	我要买[盐汽水/产品]
+543	润肠通便多少钱
+544	[得宝/品牌][纸巾/产品]多少钱
+545	儿童 [毛巾/产品]多少钱
+546	买[气球/产品]
+547	泰国[零食/产品]多少钱
+548	我要买[鱼蛋蛋/产品]
+549	我要买[双汇/品牌][鸡肉肠/产品]
+550	牛乳味[饼干/产品]多少钱
+551	我要买[果浦/产品]
+552	[短袖衫/产品]
+553	我要买[擦玻璃器/产品]
+554	金装[清风/产品]多少钱
+555	我要买[龙井茶/产品]
+556	[不锈钢/材料][夹子/产品]多少钱
+557	我要买小[镜子/产品] 迷你
+558	[肉蒲/产品]多少钱
+559	[伊利/品牌][纯牛奶/产品]袋装多少钱
+560	[婴儿面条/产品][宝宝辅食/产品][蝴蝶面/产品]多少钱
+561	我要买襄阳[卧龙/品牌][锅巴/产品]
+562	我要买[妮飘/品牌]迷你[手帕纸/产品]
+563	我要买[蜀道香/品牌][牛肉干/产品]
+564	我要买[一次性口罩/产品]
+565	我要买[美素佳儿/品牌]2段
+566	[香水沐浴露/产品]多少钱
+567	[羊杂/产品]多少钱
+568	[墨鱼丸/产品]多少钱
+569	我要买[甲醛检测仪/产品]
+570	[燕塘/品牌][甜牛奶/产品]多少钱
+571	我要买[乐口福/产品]
+572	澳洲[奶粉/产品]
+573	我要买[生花生米/产品] [花生仁/产品]
+574	[婵真/品牌]银杏泡沫[洗面奶/产品]多少钱
+575	干燥除湿多少钱
+576	洗鞋[刷子/产品]多少钱
+577	[药/产品]多少钱
+578	我要买[鲁花/品牌][葵花籽油/产品]
+579	[黑胶伞/产品]多少钱
+580	儿童[游泳圈/产品]多少钱
+581	[金米郎/品牌][笨笨狗/产品]多少钱
+582	[水晶之恋/产品]多少钱
+583	我要买儿童[刷牙杯/产品]子
+584	我要买[加热饭盒/产品]
+585	[手提包/产品]
+586	我要买[嘉顿/品牌][面包/产品]
+587	破洞[牛仔裤/产品]
+588	我要买[饭盒袋/产品] [手提袋/产品]
+589	我要买[洋酒/产品]套装
+590	我要的是[面膜/产品]
+591	我要买[子初/品牌][储奶袋/产品]
+592	我要买小桶[泡面/产品]
+593	我要买[三只松鼠/品牌][爆米花/产品]
+594	[电池炉/产品]多少钱
+595	[鸽子/产品]活体
+596	我要买[拌面/产品]
+597	我要买[斯凯奇/品牌]
+598	我要买[卷纸/产品] [心相印/品牌]
+599	我要买[秋衣/产品]
+600	我要买[儿童车/产品] [三轮车/产品]
+601	我要买[黄芪/产品]
+602	我要买[芝士仙贝/产品]
+603	我要买[海天/品牌][拌饭酱/产品]
+604	我要买[亮净/品牌][洁厕精/产品]
+605	[酸奶/产品]生鲜多少钱
+606	[妙妙/产品]多少钱
+607	我要买韩国[辣椒酱/产品]
+608	[短裤/产品]
+609	我要买[转换器插头/产品]
+610	购买[手机/产品]可以邮寄吗
+611	[鸭血/产品]多少钱
+612	白胡椒[方便面/产品]多少钱
+613	我要买[蓝牙耳机/产品]
+614	我要买办公
+615	我要买[纯棉/材料][t恤/产品]女短袖纯色
+616	我要买[安琪/品牌][百钻/型号]双效[泡打粉/产品]
+617	[天然气灶/产品]多少钱
+618	[果干/产品][蜜饯/产品]多少钱
+619	我要买[凉鞋/产品]
+620	我要买[vivo/品牌][手机壳/产品]
+621	我要买[卸妆棉/产品][纯棉/材料]
+622	[柴火大院/品牌] 五常[稻花香米/产品]多少钱
+623	我要买进口[牛奶/产品][250ml/规格]
+624	消化[全麦/材料][饼干/产品]多少钱
+625	我要买[金龙鱼/品牌][原香稻/产品]
+626	我要买[婴儿衣服/产品]
+627	我要买[汤达人/品牌][方便面/产品]袋装
+628	[爱得利/品牌][奶嘴/产品]多少钱
+629	我要买[洗发水/产品][飘柔/品牌]
+630	我要买[洗浴套装/产品]
+631	我要买[牙杯/产品][洗漱杯/产品]
+632	[衣物除菌液/产品]多少钱
+633	我要买[红糖酥饼/产品]
+634	我要买[凉枕头/产品]
+635	[九阳/品牌][破壁机/产品]
+636	[玉米淀粉/产品]烘焙多少钱
+637	我要买[平板拖把/产品]
+638	我要买[眼镜小猫/品牌][瓜子/产品]
+639	[利仁/品牌]多少钱
+640	我要买[滋源/品牌]无硅油
+641	[花中花/产品]多少钱
+642	[生鲜/产品]多少钱
+643	[发胶 喷雾/产品]多少钱
+644	我要买香葱[苏打饼干/产品]
+645	[拉芳/品牌]多少钱
+646	[脆虾/产品]多少钱
+647	我要买[水笔/产品] [中性笔/产品]
+648	[醋/产品]袋装多少钱
+649	我要买剃头
+650	[波力/品牌][海苔卷/产品]多少钱
+651	我要买[潘婷/品牌][洗发水/产品][400ml/规格]
+652	我要买[纯木植护/产品]
+653	[鞋套/产品]一次性多少钱
+654	我要买[惠润/品牌][沐浴露/产品]
+655	[越南草虾/产品]多少钱
+656	[贝奇野菜/产品]多少钱
+657	我要买[蒙牛/品牌]低脂高钙
+658	[陶瓷/材料][碗/产品]
+659	[洗衣液/产品][绿伞/品牌]多少钱
+660	我要买[牙膏/产品]
+661	我要买[豆豉/材料][鱼罐头/产品]
+662	我要买[六神/品牌]宝宝
+663	我要买[婴儿脸盆/产品]
+664	[二锅头/产品]多少钱
+665	[纯真/品牌][酸奶/产品]多少钱
+666	我要买[胶棉/材料][拖把头/产品]
+667	家具安装
+668	[凉垫/产品]多少钱
+669	[无糖食品/产品]多少钱
+670	我要买[莲子/产品]
+671	[吹风筒/产品]多少钱
+672	[袋鼠/品牌][红酒/产品]多少钱
+673	[耳夹/产品]
+674	氧多少钱
+675	我要买[乐视/品牌][手机/产品]
+676	[鸭子/产品]多少钱
+677	我要买[好奇/品牌][铂金装/型号][m/规格]
+678	[餐具/产品][套装/产品][筷子/产品][勺子/产品][三件套/产品]多少钱
+679	[沐浴露/产品]
+680	我要买[鸳鸯锅/产品]
+681	我要买[荞麦/材料][面条/产品] [荞麦/材料][挂面/产品]
+682	我要买[玉米热狗肠/产品]
+683	我要买男士[洗面奶/产品][套装/产品]
+684	手洗专用[洗衣液/产品]多少钱
+685	我要买[电蚊香液/产品]无味婴儿驱蚊 宝宝
+686	我要买刀削面[削面刀/产品]
+687	[红杏干/产品]多少钱
+688	我要买[厨帮/品牌][酱油/产品]
+689	[中脉/品牌]
+690	我要买提
+691	[海绵/材料][拖把头/产品] 替换多少钱
+692	[五芳斋/品牌][粽子/产品]散装多少钱
+693	我要买[花王/品牌][尿不湿/产品][l/规格]
+694	[洗发水/产品] 控油多少钱
+695	[饼干/产品]
+696	[凉粉/产品] [仙草/产品]多少钱
+697	[青岛/品牌]纯生[啤酒/产品][500ml/规格]多少钱
+698	[土豆饼/产品]多少钱
+699	[usb数据线/产品]多少钱
+700	500
+701	我要买[炒菜铲子/产品]
+702	我要买[洗头水/产品]女
+703	[沐浴条/产品]多少钱
+704	我要买[桑葚果/产品]
+705	[洗衣液/产品]小瓶多少钱
+706	[玩具/产品]多少钱
+707	我要买[维达/品牌][抽纸/产品][6包/规格]
+708	[沐浴露/产品]女多少钱
+709	我要买mama
+710	四件套多少钱
+711	我想要[布鞋/产品]
+712	我要买[烤馍片/产品]整箱
+713	我要买[刀麦/品牌]
+714	补气血多少钱
+715	[厦门/品牌][泡面/产品]多少钱
+716	[红色小象/品牌]多少钱
+717	一次性[纸杯/产品]多少钱
+718	[唇膏/产品]
+719	我要买[义利/品牌]
+720	[干膜片/产品]多少钱
+721	我要买[化妆品/产品][套装/产品]
+722	[无芯纸/产品]多少钱
+723	[乳酸菌饮品/产品]多少钱
+724	我要买网红[牛奶/产品]
+725	我要买[菜板/产品]抗菌
+726	[荞麦/材料][面条/产品] [荞麦/材料][挂面/产品]多少钱
+727	我要买[理发器/产品]电动[电推剪/产品]
+728	我要买[防蚊喷雾/产品] 儿童
+729	[老面包/产品]多少钱
+730	我要买[安琪/品牌][酵母粉/产品]
+731	我要买[指甲剪/产品]婴儿
+732	我要买[寿司帘/产品][竹帘/产品]
+733	我要买[新米/产品]
+734	我要买[豆奶粉/产品]
+735	[良品铺子/品牌]酥脆[薄饼/产品]海苔味多少钱
+736	[泸州老窖/品牌][头曲/产品]多少钱
+737	我要买[厕纸/产品][卫生纸/产品]
+738	我要买[鲜鱿鱼/产品]
+739	我要买[牙线/产品] 细
+740	我要买[垃圾袋/产品]大号
+741	[香烟/产品]多少钱
+742	我要买[重庆特产/产品][小吃/产品][零食/产品]
+743	我要买[大吃兄/品牌][锅巴/产品]
+744	[贝亲/品牌]安抚[奶嘴/产品]多少钱
+745	[妈咪宝贝/品牌]小[内裤/产品]多少钱
+746	我要买[灭蚊拍/产品][电蚊子拍/产品]
+747	我要买[仙贝/产品]
+748	我要买[德芙/品牌][醇黑巧克力/产品]
+749	我要买[露怡/产品]
+750	[密封袋/产品] 食品多少钱
+751	[伊利/品牌] [牛奶/产品]多少钱
+752	[麦吉士/品牌][山核桃小酥/产品]多少钱
+753	[洗衣液/产品]宝宝多少钱
+754	我要买[龟苓膏/产品]梧州
+755	[优形/品牌]电烤[鸡胸肉片/产品]多少钱
+756	我要买[调料罐/产品] [玻璃/材料]
+757	[妙洁/品牌][手套/产品]多少钱
+758	我要买[雨衣/产品]
+759	我要买[酸奶/产品]发酵菌10菌双歧杆菌[益生菌粉/产品]
+760	免洗[护发素/产品]多少钱
+761	[雪花/品牌]勇闯天涯[啤酒/产品][500ml/规格]多少钱
+762	[奶瓶/产品][ppsu/材料]多少钱
+763	[曼秀雷敦/品牌] [爽肤水/产品]多少钱
+764	[高跟鞋/产品]夏季多少钱
+765	我要买[大王/品牌][拉拉裤/产品][xl/规格]
+766	我要买[生鲜肉类/产品]
+767	我要买[消毒器/产品]
+768	[鲜活/品牌]
+769	我要买[藤席/产品][凉席/产品][三件套/产品]
+770	[木瓜香皂/产品]多少钱
+771	[雀巢/品牌][能恩/型号]3段多少钱
+772	[欧德堡/品牌][全脂牛奶/产品]多少钱
+773	我要买红
+774	我要买小[鱿鱼仔/产品]
+775	[收纳包/产品]多少钱
+776	我要买[豆腐皮/产品]
+777	我要买[纯果乐/产品]
+778	[婴儿床/产品]多少钱
+779	[百吉福/品牌][棒棒奶酪/产品]多少钱
+780	美白 [牙膏/产品]多少钱
+781	我要买美发[梳子/产品]
+782	[the body shop/产品]多少钱
+783	我要买[新生儿衣服/产品]
+784	我要买[杰士派/产品]
+785	我要买[安幕希/品牌]黄桃
+786	我要买[真知棒/品牌][棒棒糖/产品]
+787	[塔塔粉/产品]多少钱
+788	[vita coco/品牌][椰子水/产品]多少钱
+789	我要买[自动雨伞/产品]
+790	我要买[维达/品牌] 婴儿
+791	我要买[微波炉饭盒/产品]
+792	[漱口杯/产品]多少钱
+793	[奶粉/产品] 成人 男士多少钱
+794	买[连衣裙/产品]
+795	[手电筒/产品] 强光 充电 远射户外防水多少钱
+796	我要买[话梅棒棒糖/产品]
+797	[餐具盒/产品]多少钱
+798	我要买[好有趣/产品]
+799	我要买[紫甘蓝/产品]
+800	我要买[苍蝇拍/产品] 充电式
+801	[一次性桌布/产品]多少钱
+802	[袜子/产品]
+803	[科罗纳/品牌]多少钱
+804	我要买[欧德堡/品牌][全脂纯牛奶/产品]
+805	[爱生活/品牌]多少钱
+806	买[充电器/产品]
+807	我要买[乐高/品牌][积木/产品][拼装玩具/产品]
+808	可爱
+809	[洗面奶/产品]
+810	我要买[喷雾瓶/产品]
+811	我要买[沙/产品]
+812	我要买[vivo/品牌][耳机/产品]
+813	我要买[豆沙粽子/产品]
+814	[零乳糖/产品]多少钱
+815	我要买[鱿鱼足片/产品]
+816	我要买[和路雪/品牌]
+817	[百草味/品牌][鸭舌/产品]多少钱
+818	我要买[生猪肉/产品]
+819	[籼米/产品]多少钱
+820	我要买[有友/品牌][泡椒凤爪/产品][180g/规格]
+821	我要买[地瓜条/产品]
+822	[拉拉裤/产品][xxxl/规格]多少钱
+823	我要买[桃子/产品]
+824	我要买[海天/品牌]招牌[拌饭酱/产品]
+825	[西数/品牌]
+826	我要买[全面时代/品牌]
+827	[抽纸/产品]整箱[24包/规格]多少钱
+828	我要买[山楂卷/产品][果丹皮/产品]
+829	我要买[平衡车/产品]
+830	那款[迪奥/品牌][口红/产品]多少钱啊
+831	我要买[艾艾贴/产品]
+832	[鞋盒/产品]多少钱
+833	我要买[红茶茶叶/产品]
+834	[项链/产品]多少钱
+835	[亿滋/品牌][焙朗早餐饼/产品]多少钱
+836	我要买[盐津铺子/品牌]
+837	高钙低脂多少钱
+838	我要买[黑糖麻花/产品]
+839	短袖多少钱
+840	[蒸蛋/产品]多少钱
+841	我要买[乡乡嘴/品牌]
+842	我要买[鳕鱼块/产品]
+843	我要买[炒面大王/产品]
+844	我要买[沙士/产品]
+845	我要买[牙刷/产品][牙膏/产品][旅行套装/产品]
+846	我要买[婴儿车凉席/产品]
+847	[卫生巾/产品]超长夜用多少钱
+848	[洗碗手套/产品] 耐用 厨房多少钱
+849	我要买[农夫山泉/品牌][水柠檬/产品]
+850	[女儿红/产品]多少钱
+851	[白酒/产品]整箱多少钱
+852	我要买进口[果泥/产品]
+853	[味事达/品牌]多少钱
+854	[爽肤水/产品]女补水保湿多少钱
+855	[伊利/品牌][雪糕/产品]多少钱
+856	迷你[榨汁机/产品]多少钱
+857	我要买[利口福/品牌][流沙包/产品]
+858	[背带裙/产品]
+859	[好奇/品牌][银装/型号][纸尿裤/产品]多少钱
+860	[水瓶/产品] [塑料/材料]多少钱
+861	买[显卡/产品]
+862	我要买[3m/品牌][挂钩/产品]
+863	[英雄/品牌]
+864	[子初/品牌][蚊香液/产品]多少钱
+865	我要买腋下[止汗喷雾/产品] [香体露/产品] 男士
+866	刷油多少钱
+867	[大白兔/品牌][牛奶糖/产品]多少钱
+868	[七彩/品牌]
+869	我要买[怡丽/品牌][护垫/产品]
+870	去角质 搓泥多少钱
+871	[安全座椅/产品]多少钱
+872	[m巾/产品]多少钱
+873	[春雨/品牌]
+874	[文山三七粉/产品]多少钱
+875	[华为/品牌][p9/型号]多少钱
+876	[康师傅/品牌][香菇炖鸡面/产品]多少钱
+877	[手动剃须刀/产品]多少钱
+878	[电蚊香液/产品]多少钱
+879	[洗脸巾/产品]一次性多少钱
+880	我想买[滑板车/产品]
+881	[康元/品牌][手指饼干/产品]多少钱
+882	零手付买[手机/产品]
+883	短款的
+884	我要买[刮胡刀片/产品]
+885	[银耳/产品] [糯耳/产品]多少钱
+886	我要买[手环/产品]
+887	[浴巾/产品] [纯棉/材料]多少钱
+888	我要买[产妇卫生巾/产品]
+889	[a4纸/产品]多少钱
+890	我要买[按摩椅/产品]
+891	[养元青/品牌][洗发水/产品]多少钱
+892	[芒果/产品]多少钱
+893	[雪完美/品牌][面膜/产品]多少钱
+894	[尼维雅/品牌]多少钱
+895	我要买[九五至尊/产品]
+896	我要买[糖果袋/产品]
+897	[湿纸巾/产品] 婴儿多少钱
+898	[顾大嫂/品牌][小馄饨/产品]多少钱
+899	[梦之蓝/产品][m3/型号]多少钱
+900	[卫生纸/产品]无芯多少钱
+901	我要买[欧莱雅/品牌][男士套装/产品]
+902	[成人牙刷/产品]多少钱
+903	想买点[保健品/产品]
+904	[口紅/产品]
+905	[干燥剂/产品]多少钱
+906	[君乐宝/品牌][纯牛奶/产品]多少钱
+907	我要买[学步裤/产品]
+908	[李锦记/品牌][醋/产品]多少钱
+909	[月子纸/产品]多少钱
+910	[文胸袋/产品]洗内衣专用[洗衣袋/产品][网袋/产品]多少钱
+911	我要买[爱护/品牌][湿巾/产品]
+912	[床围栏/产品][护栏/产品]多少钱
+913	[菜仔奶/产品]多少钱
+914	我要买户外
+915	[明治/品牌][酸奶/产品]多少钱
+916	我要买[猫王/品牌][纸/产品]
+917	我要买[桌面/产品]
+918	我要买[渔具/产品]
+919	[心心相印/品牌][湿巾/产品]多少钱
+920	[加菲猫/品牌] [婴儿沐浴露/产品]多少钱
+921	5多少钱
+922	闺蜜
+923	我要买维
+924	我要买[肉枣/产品]
+925	我要买[甘蔗/产品]
+926	我要买[山核桃瓜子/产品]
+927	我要买[不锈钢/材料] [菜盆/产品]
+928	[罐头牛肉/产品]多少钱
+929	我要买[细砂糖/产品] 烘焙
+930	[男士袜子/产品]多少钱
+931	我要买[富安娜/品牌]
+932	我要买[鳕鱼条/产品]
+933	[百加得/品牌][黑朗姆酒/产品]多少钱
+934	我要买[卫龙/品牌][小面筋/产品]
+935	我要买[油沾米/产品]
+936	[连衣裙/产品]小清新
+937	[韩国烤肉酱/产品]多少钱
+938	我要买[蔓越莓干/产品]
+939	[薇儿/品牌][卫生巾/产品]多少钱
+940	[六神/品牌]艾叶健肤[沐浴露/产品]多少钱
+941	我要买[豆浆机/产品]
+942	淘淘多少钱
+943	[充电器/产品][苹果/品牌]多少钱
+944	我要买[柠檬水/产品]整箱
+945	我要买[雪花片积木/产品]
+946	我要买[吊床/产品]
+947	我要买[恒顺/品牌][9度米醋/产品]
+948	[蜘蛛王/品牌][女鞋/产品]
+949	[泡菜罐/产品]多少钱
+950	[卫生巾/产品][420/规格]多少钱
+951	我要买[冷水杯/产品] 大容量
+952	我要买[长帝/品牌]
+953	我要买[鱼仔/产品][劲仔/品牌]
+954	我要买[叶子/产品]
+955	我要买[爱他美/品牌][pre/型号]
+956	[御香龙品/产品]多少钱
+957	[豆浆粉/产品] 冲饮多少钱
+958	我要买[腊肠/产品]
+959	我要买[麦片/产品]早餐
+960	[空调风扇/产品]多少钱
+961	我要买[饺子/产品]
+962	我要买[珠江啤酒/产品]
+963	我要买休闲
+964	[儿童碗/产品][餐具/产品]防摔多少钱
+965	我要买[腰果/产品]炭烧
+966	我要买[槟榔/产品]
+967	[早晚/品牌][牙膏/产品]多少钱
+968	我要买[婴儿零食/产品]
+969	[蓝月亮/品牌][洁厕液/产品]多少钱
+970	[面条/产品]多少钱
+971	[雪融芝士/产品]多少钱
+972	[灭蚊灯/产品]多少钱
+973	我要买[金领冠珍护/产品]
+974	我要买[卡乐/产品]
+975	[冰糖雪梨/产品]多少钱
+976	[定时器/产品]多少钱
+977	[鱼竿/产品]
+978	[浪莎/品牌][内裤/产品]女多少钱
+979	[维达/品牌][卫生纸/产品] [卷纸/产品] 无芯多少钱
+980	我要买晒被子[大夹子/产品]
+981	麻烦说下[牛奶/产品]最近降价没，好吗
+982	我要买[加湿器/产品]
+983	[饼干面包/产品]多少钱
+984	我要买深层清洁[洗面奶/产品]
+985	我要买[休闲裤/产品]
+986	我要买[彩椒/产品]
+987	我要买香辣[牛肚/产品]
+988	收缩毛孔
+989	我要买[诺贝能/品牌][2段/型号]
+990	[双面胶/产品]多少钱
+991	[刷牙杯子/产品]多少钱
+992	[鲜水果/产品]多少钱
+993	我要买[首饰/产品]
+994	[洗头膏套装/产品]多少钱
+995	我要买[椰子奶/产品]
+996	[schick/品牌]多少钱
+997	[外套/产品]男
+998	德国多少钱
+999	[婴儿电蚊香/产品]多少钱
+1000	[宏香记/品牌][手撕牛肉豆脯/产品]多少钱
+1001	[葵花油/产品]多少钱
+1002	我要买[双鱼/品牌][米醋/产品]
+1003	[中老年麦片/产品]多少钱
+1004	我要买[尿裤/产品][xl/规格]
+1005	[披萨饼底/产品][8寸/规格]多少钱
+1006	漂亮[连衣裙/产品]
+1007	我要买[眼影/产品]
+1008	我要买[酒心巧克力/产品]
+1009	[众望/品牌]多少钱
+1010	我要买[尤尼佳/品牌][拉拉裤/产品]
+1011	我要买[鞋子收纳包/产品]
+1012	我要买辣的[零食/产品]
+1013	内衣 [洗衣液/产品]多少钱
+1014	我要买[常温酸奶/产品]
+1015	我要买[润发乳/产品]
+1016	[桃片/产品]多少钱
+1017	[宽腿裤/产品]
+1018	[香肠/产品][整箱/规格]多少钱
+1019	我要买[好爸爸/品牌][洗衣皂/产品]
+1020	我要买[腐乳/产品] 天猫超市
+1021	我要买儿童防蚊
+1022	我要买[电动刷头/产品]
+1023	我要买[米饭/产品]
+1024	[电压力锅/产品][4l/规格]多少钱
+1025	[袋装/规格][鲜牛奶/产品]多少钱
+1026	我要买防晒50
+1027	[奥妙/品牌][洗衣粉/产品]全自动[3kg/规格]多少钱
+1028	我要买[华夫饼/产品] [丹夫/品牌]
+1029	我要买[干粮/产品][零食/产品]
+1030	[礼盒/产品]多少钱
+1031	[公主裙/产品]
+1032	[甘竹/产品]多少钱
+1033	我要买[盐津/产品]
+1034	我要买[洽洽/品牌][小而香/型号][西瓜子/产品]
+1035	[好奇/品牌][金装/型号]多少钱
+1036	我要买9 9包邮
+1037	我要买[vs/品牌][沙宣/品牌][洗发水/产品]
+1038	我要买[婴儿粉/产品]
+1039	我要买[泉林本色/品牌][纸/产品]
+1040	[大头菜/产品]多少钱
+1041	[火鸡拉面/产品]多少钱
+1042	我要买[儿童润肤露/产品]
+1043	[帮宝适/品牌][拉拉裤/产品][xxl/规格]多少钱
+1044	我要买[进口饮料/产品]
+1045	我要买[厨房用纸/产品]
+1046	我要买[恒都/品牌][牛排/产品]
+1047	[加加/品牌][生抽/产品]多少钱
+1048	[熊孩子/品牌][食品/产品]多少钱
+1049	书店多少钱
+1050	[无芯卷筒纸/产品][家用卫生纸/产品]多少钱
+1051	我要买[玻璃擦窗器/产品]
+1052	我要买[帮宝适/品牌][nb/型号]
+1053	[光明/品牌][莫斯利安/型号][酸奶/产品]多少钱
+1054	[冰柜/产品]多少钱
+1055	[菜板/产品][整竹/材料]多少钱
+1056	[蛋黄酥/产品]多少钱
+1057	我要买[宝宝水壶/产品]
+1058	[方便面/产品][公仔面/产品]多少钱
+1059	[费雷罗/品牌]多少钱
+1060	我要买[美加净/品牌][洗面奶/产品]
+1061	我要买婴儿磨牙
+1062	[鸡汤/产品]多少钱
+1063	[悠哈/品牌][奶糖/产品]多少钱
+1064	[大益/品牌][普洱茶/产品]多少钱
+1065	[保鲜碗/产品]多少钱
+1066	[海底捞/品牌][麻辣小龙虾调料/产品][170g/规格]多少钱
+1067	[椰丝球/产品][椰蓉球/产品]多少钱
+1068	[婴儿袜子/产品][纯棉/材料] 夏多少钱
+1069	[婴儿爽身粉/产品]多少钱
+1070	[红富士/产品]多少钱
+1071	我要买[竹签/产品]
+1072	[蒙牛/品牌][大果粒/产品]多少钱
+1073	[桃仁/产品]多少钱
+1074	[防辐射眼镜/产品]
+1075	我要买[五羊/品牌][婴儿洗衣皂/产品]
+1076	请问我昨天买的[牛奶/产品]到哪里了
+1077	瓶装多少钱
+1078	我要买[椒盐饼干/产品]
+1079	我要买[42寸/规格]的[电视/产品]
+1080	[雀巢/品牌][奶粉/产品][超级能恩/型号]多少钱
+1081	我要买[被罩/产品]
+1082	[tf卡/产品]多少钱
+1083	[咖啡饮料/产品]多少钱
+1084	[雪花/品牌][啤酒/产品]多少钱
+1085	我要买[葵花籽油/产品][5l/规格]
+1086	[毛巾/产品][纯棉/材料] 小[方巾/产品]多少钱
+1087	[葱油花卷/产品]多少钱
+1088	我要买[电子秤/产品]
+1089	我要买[酒曲/产品] [米酒曲/产品] [甜酒曲/产品]
+1090	男士[短裤/产品]
+1091	[乐事/品牌][薯片/产品][145g/规格]多少钱
+1092	韩版[女装/产品]夏多少钱
+1093	我要买[凉拖/产品]
+1094	我想看看[口红/产品]多的价格，[迪奥/品牌]牌子的
+1095	我要买[虾仁/产品]
+1096	我要买[小白熊/品牌][奶瓶消毒器/产品]
+1097	张贴[面膜/产品]
+1098	[杯子/产品] [玻璃/材料]双层多少钱
+1099	我要买[泡椒/产品]1
+1100	我要买个[老人机/产品]
+1101	[胶囊咖啡/产品]多少钱
+1102	我要买[葵花阳光/品牌][五常大米/产品]
+1103	我要买[玫琳凯/品牌][防晒霜/产品]
+1104	我要买[妙洁/品牌] [百洁布/产品]
+1105	[花王/品牌][xl/规格][44/规格]多少钱
+1106	我要买补水[面膜/产品] 补水保湿
+1107	[李锦记/品牌][味极鲜/产品]多少钱
+1108	[隐形眼镜护理液/产品]多少钱
+1109	[精油皂/产品] 沐浴多少钱
+1110	[手套/产品]劳保多少钱
+1111	我要买[鸡胸肉/产品] 健身
+1112	[oral b/品牌][牙膏/产品]多少钱
+1113	我要买[花花公子/产品]
+1114	[洗衣槽清洁剂/产品]多少钱
+1115	[鸭脖/产品]
+1116	我要买[茶花/品牌][衣架/产品]
+1117	我要买[安速/品牌][杀蟑饵剂/产品]
+1118	[西梅汁/产品]多少钱
+1119	[女装/产品]套装
+1120	我要买[水果/产品][猕猴桃/产品]
+1121	我要买[罗兰/品牌][香皂/产品]
+1122	我要买[儿童营养早餐/产品]
+1123	[奶粉/产品]三段多少钱
+1124	我要买[防水贴/产品]
+1125	我想买[安眠药/产品]
+1126	我要买[满婷/品牌][沐浴露/产品]
+1127	我要买[钢丝/产品]
+1128	[维达/品牌][抽纸/产品][3层/规格][150抽/规格]多少钱
+1129	我要买[美容巾/产品]
+1130	我要买[楼兰蜜语/品牌][红枣/产品]
+1131	我要买[口红/产品]
+1132	[浴室垫/产品]多少钱
+1133	[美式咖啡/产品]多少钱
+1134	[阳江/品牌][豆豉/产品]多少钱
+1135	[生菜/产品]多少钱
+1136	[儿童蚊香液/产品] 无味 婴儿多少钱
+1137	[蚊帐/产品]蒙古包多少钱
+1138	我要买[阿根廷红虾/产品][2kg/规格]
+1139	[银/材料][项链/产品]多少钱
+1140	[米饭/产品]速食多少钱
+1141	我要买[牛奶麦片/产品]
+1142	[丘比特/产品]多少钱
+1143	我要买[洁丽雅/品牌][毛巾/产品][纯棉/材料] 洗脸小[方巾/产品]
+1144	我要买[乌苏/品牌][啤酒/产品]
+1145	我要买[进口肠/产品]
+1146	我要买[酒水/产品]
+1147	我要买[凝胶/产品]
+1148	我要买[良品铺子/品牌][榴莲干/产品]
+1149	我要买小[电风扇/产品] 台式
+1150	[奥利奥/品牌][巧轻脆/型号][薄片/产品]多少钱
+1151	我要买[隆顺榕/品牌]
+1152	我要买[长崎蛋糕/产品]
+1153	[洗面奶/产品] 女多少钱
+1154	[連衣裙/产品]
+1155	收纳[挂袋/产品]多少钱
+1156	男士保湿多少钱
+1157	我要买淘淘
+1158	[毛巾/产品][方巾/产品]多少钱
+1159	凑单多少钱
+1160	我要买[kisso/品牌]
+1161	我要买[牛仔裤/产品]男
+1162	女童[连衣裙/产品]
+1163	我要买宽松[连衣裙/产品]
+1164	婴儿一段[奶粉/产品]多少钱
+1165	我要买个护
+1166	[谷粒多/品牌][黑谷/型号][牛奶/产品]多少钱
+1167	[豆浆豆/产品]多少钱
+1168	[oppo/品牌][A7plus/型号]
+1169	[纱布/材料][毛巾/产品]多少钱
+1170	[果粉/产品]多少钱
+1171	[湿巾/产品] [好奇/品牌]多少钱
+1172	我要买[伊利/品牌][纯牛奶/产品] [高钙低脂奶/产品]
+1173	我要买[产妇帽/产品]
+1174	女童[裤袜/产品]
+1175	[伊利/品牌][红豆/产品]多少钱
+1176	[热水器/产品]多少钱
+1177	我要买爬行
+1178	[荷兰乳牛/产品]多少钱
+1179	女士[上衣/产品]
+1180	我要买[安儿乐/品牌][xl/规格]
+1181	[飞利浦/品牌][牙刷头/产品]多少钱
+1182	我要买牛排[刀叉/产品]
+1183	我要买辣
+1184	我要买[刮眉刀/产品]
+1185	我要买运动[水壶/产品]
+1186	我要买[烘焙纸杯/产品][蛋糕杯/产品]
+1187	[模具/产品]烘焙多少钱
+1188	我要买[拖鞋/产品] 男
+1189	我要买进口[牙线/产品]
+1190	[学饮杯吸管/产品]多少钱
+1191	[健力宝/品牌]多少钱
+1192	[启初/品牌][婴儿保湿露/产品]多少钱
+1193	[床刷/产品]多少钱
+1194	我要买婴儿洗头
+1195	[百草味/品牌][爆米花/产品]多少钱
+1196	养胃多少钱
+1197	我要买[老干妈/品牌][牛肉酱/产品]
+1198	早餐[[冲饮谷物/产品]/产品]多少钱
+1199	我要买[温奶器/产品]
+1200	[馒头干/产品] [烤馍片/产品]多少钱
+1201    适合[打篮球/场景]的装备有哪些？
