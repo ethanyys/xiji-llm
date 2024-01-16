@@ -1,6 +1,5 @@
 import torch
-from torch.utils.data import Dataset, DataLoader, TensorDataset
-from transformers import AutoTokenizer
+from torch.utils.data import Dataset
 
 
 class TextDataset(Dataset):
@@ -23,7 +22,7 @@ def data_loader(file_path):
     sentence, lines, tags = [], [], []
     for line in open(file_path).readlines():
         if len(line.rstrip()) == 0:
-            lines.append([s.split("\t")[0] for s in sentence])
+            lines.append("".join([s.split("\t")[0] for s in sentence]))
             tags.append([s.split("\t")[1] for s in sentence])
             assert len(lines[-1]) == len(tags[-1])
             sentence = []
