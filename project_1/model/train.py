@@ -8,7 +8,7 @@ from project_1.model.dataset import data_loader, TextDataset
 PRETRAIN_MODEL_PATH = '/Users/ethan/Documents/projects/models/bert-base-chinese'
 
 
-####### Step 1. 加载训练和测试数据 #######
+####### Step 1. 加载数据 #######
 train_file_path = "data/E-Commerce/train.txt"
 val_file_path = "data/E-Commerce/dev.txt"
 
@@ -52,13 +52,19 @@ print("train sample: {}, iter_num: {}".format(len(train_lines), len(train_loader
 print("val sample: {}, iter_num: {}".format(len(val_lines), len(val_loader)))
 
 
-####### Step 2. 定义模型 #######
+####### Step 2. 训练模型 #######
 from project_1.model.bert import Bert
 
-model = Bert(label2id)
-epoch = 2
-model.train(train_loader, epoch)
+ner_model = Bert(label2id, max_length)
+ner_model.init_model(PRETRAIN_MODEL_PATH)
 
+epoch = 1
+ner_model.train(train_loader, epoch)
+ner_model.valid(val_loader)
+
+# 保存训练好的模型
+save_path = "/Users/ethan/Documents/projects/models/ec_ft_bert.pt"
+torch.save(ner_model.model, save_path)
 
 
 
